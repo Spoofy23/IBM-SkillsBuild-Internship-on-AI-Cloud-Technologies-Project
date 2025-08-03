@@ -1,0 +1,1282 @@
+TimePeriod,Indicator,Subgroup,DataValue
+2011,4.6.1: Literacy rate of youth in the age group of 15-24 years,Total,86.14
+2011,5.2.7: Child Sex Ratio (0-6 years),Rural,923.0
+2011,5.2.7: Child Sex Ratio (0-6 years),Total,918.0
+2011,5.2.7: Child Sex Ratio (0-6 years),Urban,905.0
+2011,6.4.1: Percentage ground water withdrawal against availability,Total,61.5
+2011,"6.6.1: Percentage of blocks/mandals/taluka over-exploited, (in percentage)",Total,16.2
+2011,"8.8.2: Percentage of migrant workers, (in percentage)",Total ,42.6
+2011-12,1.1.1: Poverty Gap Ratio,Rural,5.05
+2011-12,1.1.1: Poverty Gap Ratio,Urban,2.7
+2011-12,1.2.1: Proportion of population living below the national poverty line,Total,21.9
+2011-12,10.1.1: Growth rates of household expenditure per capita among the bottom 40 per cent of the population and the total population,Rural,13.61
+2011-12,10.1.1: Growth rates of household expenditure per capita among the bottom 40 per cent of the population and the total population,Urban,13.35
+2011-12,10.1.2: Gini Coefficient of Household Expenditure,Rural,0.283
+2011-12,10.1.2: Gini Coefficient of Household Expenditure,Urban,0.363
+2011-12,10.2.1: Percentage of people living below 50 per cent of median per capita household expenditure,Rural,4.28
+2011-12,10.2.1: Percentage of people living below 50 per cent of median per capita household expenditure,Urban,10.89
+2013,6.4.1: Percentage ground water withdrawal against availability,Total,61.53
+2013,"6.6.1: Percentage of blocks/mandals/taluka over-exploited, (in percentage)",Total,15.7
+2013-15,14.2.1: Percentage change in area under mangroves (similar to Indicator 14.5.2),Total,2.43
+2013-15,14.5.2: Percentage change in area under mangroves (similar to Indicator 14.2.1),Total,2.43
+2013-15,15.2.1: Percentage change in Forest cover,Total,0.54
+2013-15,15.4.1: Percentage change in forest cover in hill districts,Total,0.6
+2014,"10.2.2: Proportion of seats held by women in national Parliament, State legislation and Local Self Government (similar to Indicator 5.5.1 and 16.7.1)",Lok Sabha,11.42
+2014,"10.2.2: Proportion of seats held by women in national Parliament, State legislation and Local Self Government (similar to Indicator 5.5.1 and 16.7.1)",PRI,46.14
+2014,"10.2.2: Proportion of seats held by women in national Parliament, State legislation and Local Self Government (similar to Indicator 5.5.1 and 16.7.1)",Rajya Sabha,12.76
+2014,10.2.3: Proportion of SC/ST persons in Elected bodies (similar to 16.7.2),SCs,15.5
+2014,10.2.3: Proportion of SC/ST persons in Elected bodies (similar to 16.7.2),STs,8.7
+2014,"16.7.1: Proportion of seats held by women in national Parliament, State legislation and Local Self Government (similar to Indicator 5.5.1 and 10.2.2)",Lok Sabha,11.42
+2014,"16.7.1: Proportion of seats held by women in national Parliament, State legislation and Local Self Government (similar to Indicator 5.5.1 and 10.2.2)",PRI,46.14
+2014,"16.7.1: Proportion of seats held by women in national Parliament, State legislation and Local Self Government (similar to Indicator 5.5.1 and 10.2.2)",Rajya Sabha,12.76
+2014,"16.7.2:  Proportion of SC/ST persons in the elected bodies (Lok Sabha) (similar to 
+10.2.3)",SCs,15.5
+2014,"16.7.2:  Proportion of SC/ST persons in the elected bodies (Lok Sabha) (similar to 
+10.2.3)",STs,8.7
+2014,"5.5.1: Proportion of seats held by women in national Parliament, State legislation and Local Self Government (similar to Indicator 10.2.2 and 16.7.1)",Lok Sabha,11.42
+2014,"5.5.1: Proportion of seats held by women in national Parliament, State legislation and Local Self Government (similar to Indicator 10.2.2 and 16.7.1)",PRI,46.14
+2014,"5.5.1: Proportion of seats held by women in national Parliament, State legislation and Local Self Government (similar to Indicator 10.2.2 and 16.7.1)",Rajya Sabha,12.76
+2014,5.5.3: Number of women candidates out of total candidates contesting elections(in percentage),Total,8.19
+2014-16,"3.1.1: Maternal Mortality Ratio (MMR), (per 1,00,000 live births)",Total,130.0
+2014-16,5.1.3: Sex Ratio at Birth,Total,898.0
+2015,"1.5.1: Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population (similar to 11.5.1 and 13.1.1)",Total,14743.14
+2015,"1.5.3: Whether the country has adopted and implemented national disaster risk reduction strategies in line with the Sen-dai Framework for Disaster Risk Reduction 2015-2030, (similar to Indicator 11.b.1 and 13.1.2",Total,0.25
+2015,1.5.4: Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with na-tional disaster risk reduction strategies (similar to 11.b.2 and 13.1.3),Total,0.901
+2015,10.7.1: Recruitment cost borne by employee as a proportion of monthly income earned in country of destination,Total,1.43
+2015,11.2.2: People killed/injured in road accidents (similar to 3.6.1 ),Death Rate,11.81
+2015,11.2.2: People killed/injured in road accidents (similar to 3.6.1 ),Injury Rate,38.31
+2015,11.3.1: Proportion of Cities with Master Plan (similar to 11.a.1),Total,25.61
+2015,"11.5.1: Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population (similar to 1.5.1 and 13.1.1)",Total,14743.14
+2015,11.a.1: Proportion of Cities with Master Plan (similar to 11.3.1),Total,25.61
+2015,"11.b.1: Whether the country has adopted and implemented national disaster risk reduction strategies in line with the Sen-dai Framework for Disaster Risk Reduction 2015-2030, (similar to Indicator 1.5.3  and 13.1.2)",Total,0.25
+2015,11.b.2: Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (similar to  1.5.4 and 13.1.3),Total,0.901
+2015,12.3.1: Per capita food availability,Food Grains,169.8
+2015,12.a.1: Installed renewable energy generating capacity in the country (similar to 7.b.1 ),Total,63.68
+2015,"13.1.1: Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population (similar to 11.5.1 and 1.5.1 )",Total,14743.14
+2015,"13.1.2: Whether the country has adopted and implemented national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015-2030, (similar to Indicator 1.5.3  and 11.b.1)",Total,0.25
+2015,13.1.3: Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (similar to 11.b.2 and 1.5.4),Total,0.901
+2015,15.1.1: Forest cover as a percentage of total geographical area,Total,21.35
+2015,15.1.2: Protected area as percentage of total geographical area,Total,5.07
+2015,15.2.3: Tree cover as percentage of total geographical area,Total,2.82
+2015,"15.7.1: Number of cases registered under the Wildlife Protection Act, 1972 (similar to 15.c.1)",Total,698.0
+2015,"15.c.1: Number of cases registered under the Wildlife Protection Act, 1972 (similar to 15.7.1)",Total,698.0
+2015,"16.1.1: Number of victims of intentional homicide per 1,00,000 population.",Total,2.63
+2015,"16.1.2: Per 1,00,000 Population subjected to physical, psychological or sexual violence in the previous 12 months",Total,58.62
+2015,"16.2.1: Proportion of Crime Committed against Children during the year, (rate per 1,00,000 children)",Total,22.06
+2015,"16.2.2: Number of victims rescued from human trafficking per 1,00,000 population, by sex, age and form of exploitation",Total,1.99
+2015,16.2.3: Number of Missing Children (similar to Indicator 8.7.2 ),Total,60443.0
+2015,16.3.2: Unsentenced detainees as a proportion of overall prison population,Undertrials,67.2
+2015,16.4.1: Number of cases under the Arms Act,Arms Cases,53300.0
+2015,16.4.2: Value of Property Stolen and Recovered and Percentage Recovery,Percentage Recovery of Stolen Property,16.4
+2015,16.4.2: Value of Property Stolen and Recovered and Percentage Recovery,Properties Recovered,1350.2
+2015,16.4.2: Value of Property Stolen and Recovered and Percentage Recovery,Properties Stolen,8210.4
+2015,"16.5.1: Cases reported under Prevention of Corruption Act and related section of IPC per 1,00,000 population",Total,0.42
+2015,16.9.1: Percentage of births registered,Total,88.3
+2015,17.11.1: Share of India�s exports in Global exports,Commercial Services Exports,3.16
+2015,17.11.1: Share of India�s exports in Global exports,Merchandise Exports,1.62
+2015,17.19.2: Proportion of States/UTs that have achieved 100 per cent birth registration and 80 per cent death registration,Birth,41.7
+2015,17.19.2: Proportion of States/UTs that have achieved 100 per cent birth registration and 80 per cent death registration,Death,55.6
+2015,2.5.1: Number of (a) plant and (b) animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities,Animal,6000.0
+2015,2.5.1: Number of (a) plant and (b) animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities,Plant,432799.0
+2015,3.2.1: Under-five Mortality Rate,Total Person,43.0
+2015,3.2.2: Neonatal Mortality Rate,Total,25.0
+2015,"3.3.2: Tuberculosis incidence per 1,00,000 population",Total,217.0
+2015,"3.3.3: Malaria incidence per 1,000 population",Total,0.92
+2015,3.3.5: Dengue: Case Fatality Ratio (CFR),Total,0.22
+2015,"3.3.7: Percentage of blocks reporting < 1 Kala Azar case per 10,000 population out of the total endemic blocks",Total,78.34
+2015,3.3.8: Percentage of districts reporting < 1% Microfilaria rate (MF) out of Targeted Endemic districts,Total,22.66
+2015,"3.4.2. Suicide mortality rate (per 1,00,000 population)",Total,10.6
+2015,3.6.1: People killed/injured in road accidents (similar to 11.2.2),Death Rate,11.81
+2015,3.6.1: People killed/injured in road accidents (similar to 11.2.2),Injury Rate,38.31
+2015,"3.7.2: Adolescent birth rate (aged 15�19 years) per 1,000 women in that age group",Total,11.1
+2015,3.8.7: Percentage of TB cases successfully treated (cured plus treatment completed) among TB cases notified to the national health authorities during a specified period,Total,67.0
+2015,"3.8.8: Total physicians, nurses and midwives per 10,000 population (similar to Indicator 3.c.1)",Total,35.8
+2015,3.9.3: Mortality rate attributed to unintentional poisoning,Total,2.08
+2015,"3.c.1: Total physicians, nurses and midwives per 10,000 population (similar to Indicator 3.8.8)",Total,35.8
+2015,5.1.2: Per lakh women that have been subjected to dowry offences during the year,Total,2.9
+2015,"5.1.4: Rate of Crimes Against Women Per 1,00,000 Female Population",Female,54.23
+2015,5.2.1: Proportion of crime against women to total crime reported in the country during the calendar year,Total,6.99
+2015,5.2.2: Per lakh women who have experienced sexual crimes during the calendar year,Total,22.2
+2015,5.2.3: Per lakh women who have experienced cruelty/physical violence by husband or his relatives during the year,Total,18.78
+2015,5.2.4: Proportion of sexual crime against girl children to total crime against children during the calendar year,Total,46.98
+2015,5.2.5: Proportion of trafficking of girl children to total children trafficked during the calendar year,Total,90.29
+2015,"5.3.2: Proportion of cases reported under the Prohibition of Child Marriage Act (early marriage of children below 18 years of age) to total crime against children, (in percentage)",Total,0.31
+2015,6.3.2: Proportion of water bodies with good ambient water quality,Total,87.0
+2015,6.4.3: Per capita availability of water,Total,1508.0
+2015,7.b.1: Installed renewable energy generating capacity in the country(in watts per capita) (similar to 12.a.1),Total,63.68
+2015,"8.7.1: Human trafficking cases per 10,00,000 population.",Total,5.46
+2015,8.7.2: Number of Missing Children (similar to Indicator 16.2.3),Total,60443.0
+2015,8.8.1: Number of accidents in factories,Total,21364.0
+2015-16,1.3.1: Percentage of households with any usual member covered by a health scheme or health insurance,Total,28.7
+2015-16,1.3.2: Number of beneficiaries under Integrated Child Development Scheme - ICDS,Total Beneficiaries (Children 6 month-6 years plus P&LM),102131284.0
+2015-16,1.3.3: Persons provided employment as a percentage of persons who demanded employment under Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA),Total,85.5
+2015-16,1.3.4: Number of Self Help Groups (SHGs) provided bank credit linkage,Total SHGs,18.32
+2015-16,1.3.6: Number of senior citizens provided institutional assistance through Senior Citizen Homes/Day Care Centers funded by the Government,Total,23095.0
+2015-16,1.3.7: Number of beneficiaries added under Employee�s Pension Scheme (EPS) during the year,Total,21728521.0
+2015-16,1.3.8: Coverage of New Pension Scheme (NPS),Total,9750406.0
+2015-16,1.4.2: Number of telephone subscriptions as percentage of total population,Total,83.4
+2015-16,"1.a.2: Proportion of total government spending on essential services (education, health and social protection)",Essential Services,29.87
+2015-16,1.b.1: Proportion of budget earmarked under gender budget,Total,4.46
+2015-16,10.4.1: Labour Share of GDP,Total,30.23
+2015-16,10.4.2: Percentage of budget allocated to North Eastern States,Total,1.66
+2015-16,10.4.3: Percentage of budget allocated for welfare of Scheduled Caste and Scheduled Caste,Total,2.89
+2015-16,12.3.2: Post harvest storage and distribution losses of Central/States Pool stocks of wheat and rice,Storage Loss,-0.08
+2015-16,12.3.2: Post harvest storage and distribution losses of Central/States Pool stocks of wheat and rice,Transit Loss,0.3
+2015-16,12.c.1: Amount of fossil fuel subsidy per unit of GDP,Total,0.22
+2015-16,14.1.1: Coastal Water Quality Index (CWQI),Good,2.0
+2015-16,14.1.1: Coastal Water Quality Index (CWQI),Moderate,7.0
+2015-16,"14.1.2: Percentage use of nitrogenous fertilizers to total fertilizers (N, P & K)",Total,64.94
+2015-16,14.4.1: Maximum Sustainable Yield (MSY) in fishing,Total,3.078
+2015-16,15.2.2: Total area covered under different Afforestation schemes,Total,1381596.0
+2015-16,15.3.1: Proportion of land that is degraded over total land area,Total,27.77
+2015-16,15.4.2: Percentage change in per capita income of Himalayan States over previous year,Total,10.6
+2015-16,15.b.1: Percentage of government spending on environmental protection to total government expenditure,Total,0.05
+2015-16,16.10.1: Percentage of RTI queries responded (similar to Indicator 16.6.2),Total,81.77
+2015-16,16.6.1: Primary government expenditures as a proportion of original approved budget,Total,100.75
+2015-16,16.6.2: Percentage of RTI queries responded (similar to 16.10.1),Total,81.77
+2015-16,16.6.3: Number of Government services provided online to citizens.,Online Services,968.0
+2015-16,"17.1.1: Total government revenue as a proportion of GDP, by source",Total,8.68
+2015-16,17.1.2: Proportion of domestic budget funded by domestic taxes,Total,68.14
+2015-16,17.3.1: Foreign Direct Investment as proportion of Gross National Income.,Total,2.16
+2015-16,17.3.2: Volume of remittances as a proportion of total GDP,Total,2.98
+2015-16,17.4.1: Debt service as a proportion of exports of goods and services.,Total,10.5
+2015-16,"17.6.1: Fixed internet broadband subscriptions per 100 inhabitants, by speed.",Broadband ( >= 512 Kbps),1.322
+2015-16,"17.6.1: Fixed internet broadband subscriptions per 100 inhabitants, by speed.",Narrowband ( < 512 Kbps),0.269
+2015-16,2.1.1: Percentage of children aged under 5 years who are underweight,Total,35.7
+2015-16,2.1.2: Proportion of beneficiaries covered under National Food Security Act 2013,Total,95.18
+2015-16,2.2.1: Percentage of children under age 5 years who are stunted,Total,38.4
+2015-16,2.2.2: Percentage of children under 5 years who are wasted,Total,21.0
+2015-16,"2.2.3: Percentage of women whose Body Mass Index (BMI) is below normal, 2015-16",Total,22.9
+2015-16,2.2.4: Percentage of pregnant women age 15-49 years who are anaemic (Hb<11.0 g/dl),Total,50.4
+2015-16,2.2.5: Percentage of children age 6-59 months who are anaemic (Hb<11.0 g/dl).,Total,58.5
+2015-16,2.3.1: Agriculture productivity of wheat and rice,Rice,2400.0
+2015-16,2.3.1: Agriculture productivity of wheat and rice,Wheat,3034.0
+2015-16,2.3.2: Gross Value Added in Agriculture per worker,Total,61427.0
+2015-16,2.3.3: Ratio of institutional Credit to Agriculture to the Agriculture output,Total,0.77
+2015-16,2.4.1: Proportion of Net Sown Area to Cultivable land,Total,76.82
+2015-16,2.4.3: Percentage of net area under organic farming,Total,0.974
+2015-16,2.5.3: Conservation of fish genetic resource (in number),Total,925.0
+2015-16,2.a.2: Percentage share of expenditure in Intellectual Property Product (R&D) in agriculture to GVA in agriculture,Total,0.044
+2015-16,3.1.2: Percentage of births attended by skilled health personnel (period 5 years),Total,81.4
+2015-16,3.1.3: Percentage of births attended by skilled health personnel (period 1 years),Total,84.4
+2015-16,"3.1.4: Percentage of women aged 15-49 years with a live birth, for last birth, who received antenatal care, four times or more(period for 5 years / 1 year)",Total,51.2
+2015-16,"3.3.1: Number of new HIV infections per 1,000 uninfected population",Total,0.07
+2015-16,"3.3.6: The proportion of grade-2 cases amongst new cases of Leprosy, (in Rate per million population)",Total,4.46
+2015-16,3.5.1: Percentage of population (men (15-49 years) and women (15 - 49 years)) who drink alcohol about once a week out of total population (men (15-49 years) and women (15 - 49 years)) who drink alcohol,Men(15 �49 yrs),40.7
+2015-16,3.5.1: Percentage of population (men (15-49 years) and women (15 - 49 years)) who drink alcohol about once a week out of total population (men (15-49 years) and women (15 - 49 years)) who drink alcohol,Women(15-49 yrs),35.0
+2015-16,3.5.2: Number of persons treated in de-addiction centers,Total,146124.0
+2015-16,3.5.3: Percentage of population (men (15-54 years) and women (15-49 years)) who consume alcohol,Men(15 �49 yrs),29.5
+2015-16,3.5.3: Percentage of population (men (15-54 years) and women (15-49 years)) who consume alcohol,Women(15-49 yrs),1.2
+2015-16,3.7.1: Percentage of currently married women aged 15-49 years who have their need for family planning satisfied with modern methods,Total,71.9
+2015-16,3.7.3: Percentage of institutional births (period for 5 years/1 year),1 year,82.6
+2015-16,3.7.3: Percentage of institutional births (period for 5 years/1 year),5 year,78.9
+2015-16,3.7.4: Percentage of currently married women (15-49 years) who use any modern family planning methods (similar to Indicator 3.8.1 and 5.6.1)),Total,47.7
+2015-16,3.7.5: Percentage of women aged 15-19 years who were already mothers or pregnant,Total,7.9
+2015-16,3.8.1: Percentage of currently married women (15-49 years) who use any modern family planning methods (similar to Indicator 3.7.4 and 5.6.1)),Total,47.7
+2015-16,3.8.3: Percentage of people living with HIV currently receiving ART among the detected number of adults and children living with HIV,Total,62.0
+2015-16,"3.8.4: Prevalence of hypertension among men and women age 15- 49 years, 2015-16 (in percentage)",Female,14.8
+2015-16,"3.8.4: Prevalence of hypertension among men and women age 15- 49 years, 2015-16 (in percentage)",Male,11.0
+2015-16,"3.8.5: Percentage of population in age group 15- 49 who reported sought treatment out of total population in that age group having diabetes, 2015-16",Female,81.3
+2015-16,"3.8.5: Percentage of population in age group 15- 49 who reported sought treatment out of total population in that age group having diabetes, 2015-17",Male,72.5
+2015-16,3.8.6: Percentage of women age 15-49 who have ever undergone Cervix examinations,Total,22.3
+2015-16,3.9.2: Proportion of men and women reporting Asthma in the age group 15-49 years,Female,1.9
+2015-16,3.9.2: Proportion of men and women reporting Asthma in the age group 15-49 years,Male,1.2
+2015-16,"3.b.1: Percentage of children aged 12-23 months fully immunized (BCG, Measles and three doses of Pentavalent vaccine), 2015-16",Total,62.0
+2015-16,3.b.2: Budgetary allocation for Department of Health Research,Total,1018.17
+2015-16,3.c.2: Percentage of government spending (including current and capital expenditure) in health sector to GDP,Total,1.19
+2015-16,"4.1.2: Gross Intake Ratio to the last grade (primary, upper primary and secondary)",Grade 10,80.44
+2015-16,"4.1.2: Gross Intake Ratio to the last grade (primary, upper primary and secondary)",Grade 5,97.59
+2015-16,"4.1.2: Gross Intake Ratio to the last grade (primary, upper primary and secondary)",Grade 8,98.58
+2015-16,4.1.3: Gross Enrolment Rate(GER) in higher secondary education,Total,48.32
+2015-16,4.1.4: Net Enrolment Rate(NER) in primary and upper primary education,Primary,94.11
+2015-16,4.1.4: Net Enrolment Rate(NER) in primary and upper primary education,Upper Primary,72.02
+2015-16,"4.1.5: Adjusted Net Enrolment Rate(ANER) in primary, upper primary and secondary education",Primary,98.79
+2015-16,"4.1.5: Adjusted Net Enrolment Rate(ANER) in primary, upper primary and secondary education",Secondary,58.35
+2015-16,"4.1.5: Adjusted Net Enrolment Rate(ANER) in primary, upper primary and secondary education",Upper Primary,81.29
+2015-16,4.1.7: Number of years (i) free and (ii) compulsory education guaranteed in legal frameworks,Compulsory,8.0
+2015-16,4.1.7: Number of years (i) free and (ii) compulsory education guaranteed in legal frameworks,Free,8.0
+2015-16,"4.3.2: Proportion of male-female enrolled in higher education, technical and vocational education",Higher Education,1.01
+2015-16,4.3.3: Gross enrolment ratio for tertiary education,Tertiary Education,24.48
+2015-16,4.5.1: Gender Parity Indices (GPI) for primary/secondary/higher secondary/tertiary education,Higher Secondary,1.02
+2015-16,4.5.1: Gender Parity Indices (GPI) for primary/secondary/higher secondary/tertiary education,Primary,1.03
+2015-16,4.5.1: Gender Parity Indices (GPI) for primary/secondary/higher secondary/tertiary education,Secondary,1.02
+2015-16,4.5.1: Gender Parity Indices (GPI) for primary/secondary/higher secondary/tertiary education,Tertiary Education,0.92
+2015-16,4.5.2: Enrolment ratio of children with disabilities,Elementary,1.16
+2015-16,4.5.2: Enrolment ratio of children with disabilities,Higher Secondary,0.25
+2015-16,4.5.2: Enrolment ratio of children with disabilities,Primary,1.18
+2015-16,4.5.2: Enrolment ratio of children with disabilities,Secondary,0.56
+2015-16,4.5.2: Enrolment ratio of children with disabilities,Upper Primary,1.13
+2015-16,4.a.1: Proportion of schools with access to: (a) electricity; (b) computers for pedagogical purposes; (c) adapted infrastructure and materials for students with disabilities/ disabled friendly ramp and toilets; (d) basic drinking water; (e) single-sex basic sanitation facilities; and (f) basic hand washing facilities (as per the WASH indicator definitions),Adapted infrastructure and materials for students with disabilities/disabled friendly  Toilets,19.79
+2015-16,4.a.1: Proportion of schools with access to: (a) electricity; (b) computers for pedagogical purposes; (c) adapted infrastructure and materials for students with disabilities/ disabled friendly ramp and toilets; (d) basic drinking water; (e) single-sex basic sanitation facilities; and (f) basic hand washing facilities (as per the WASH indicator definitions),Adapted infrastructure and materials for students with disabilities/disabled friendly Ramp ,61.0
+2015-16,4.a.1: Proportion of schools with access to: (a) electricity; (b) computers for pedagogical purposes; (c) adapted infrastructure and materials for students with disabilities/ disabled friendly ramp and toilets; (d) basic drinking water; (e) single-sex basic sanitation facilities; and (f) basic hand washing facilities (as per the WASH indicator definitions),Basic drinking water,86.62
+2015-16,4.a.1: Proportion of schools with access to: (a) electricity; (b) computers for pedagogical purposes; (c) adapted infrastructure and materials for students with disabilities/ disabled friendly ramp and toilets; (d) basic drinking water; (e) single-sex basic sanitation facilities; and (f) basic hand washing facilities (as per the WASH indicator definitions),Basic hand washing facilities (as per the WASH indicator definitions),51.6
+2015-16,4.a.1: Proportion of schools with access to: (a) electricity; (b) computers for pedagogical purposes; (c) adapted infrastructure and materials for students with disabilities/ disabled friendly ramp and toilets; (d) basic drinking water; (e) single-sex basic sanitation facilities; and (f) basic hand washing facilities (as per the WASH indicator definitions),Computers for pedagogical purposes,27.31
+2015-16,4.a.1: Proportion of schools with access to: (a) electricity; (b) computers for pedagogical purposes; (c) adapted infrastructure and materials for students with disabilities/ disabled friendly ramp and toilets; (d) basic drinking water; (e) single-sex basic sanitation facilities; and (f) basic hand washing facilities (as per the WASH indicator definitions),Electricity,58.55
+2015-16,4.a.1: Proportion of schools with access to: (a) electricity; (b) computers for pedagogical purposes; (c) adapted infrastructure and materials for students with disabilities/ disabled friendly ramp and toilets; (d) basic drinking water; (e) single-sex basic sanitation facilities; and (f) basic hand washing facilities (as per the WASH indicator definitions),Single-sex basic sanitation facilities (Boys),95.65
+2015-16,4.a.1: Proportion of schools with access to: (a) electricity; (b) computers for pedagogical purposes; (c) adapted infrastructure and materials for students with disabilities/ disabled friendly ramp and toilets; (d) basic drinking water; (e) single-sex basic sanitation facilities; and (f) basic hand washing facilities (as per the WASH indicator definitions),Single-sex basic sanitation facilities (Girls),96.9
+2015-16,"4.c.1: Proportion of trained teacher, by education level (primary, upper primary, elementary, secondary and higher secondary education), (in percentage)",Higher Secondary,64.45
+2015-16,"4.c.1: Proportion of trained teacher, by education level (primary, upper primary, elementary, secondary and higher secondary education), (in percentage)",Primary,67.82
+2015-16,"4.c.1: Proportion of trained teacher, by education level (primary, upper primary, elementary, secondary and higher secondary education), (in percentage)",Secondary,81.6
+2015-16,"4.c.1: Proportion of trained teacher, by education level (primary, upper primary, elementary, secondary and higher secondary education), (in percentage)",Upper Primary,74.56
+2015-16,5.2.6: Percentage of ever married women age 15-49 years who have ever experienced physical or sexual violence committed by their husband,Total,30.9
+2015-16,5.3.1: Percentage of women aged 20-24 years who were married by exact age 18 years,Total,26.8
+2015-16,"5.5.2: Proportion of women in managerial positions including women in Board of Director, in listed companies, (per 1,000 persons)",Total,173.0
+2015-16,5.6.1: Percentage of currently married women (15-49 years) who use any modern family planning methods (similar to Indicator 3.7.4 and 3.8.1),Total,47.7
+2015-16,5.6.2: Unmet need for family planning for currently married women aged 15-49 years,Total,12.9
+2015-16,5.6.3: Percentage of population aged 15-24 years with comprehensive knowledge of HIV/ AIDS,Female,21.7
+2015-16,5.6.3: Percentage of population aged 15-24 years with comprehensive knowledge of HIV/ AIDS,Male,31.5
+2015-16,5.a.1: Operational land holdings - (female operated operational holding),Female,13.96
+2015-16,"5.a.5: Exclusive women SHGs in Bank linked SHGs, (in percentage)",Total,88.92
+2015-16,5.c.1: Number of Central Ministries and States having Gender Budget Cells (GBCs),Central Ministries,57.0
+2015-16,5.c.1: Number of Central Ministries and States having Gender Budget Cells (GBCs),States/UT,14.0
+2015-16,6.1.1: Percentage of Population getting safe and adequate drinking water within premises through Pipe Water Supply (PWS),Rural,35.76
+2015-16,6.1.2: Percentage of population using an improved drinking water source (Rural),Rural,94.57
+2015-16,6.2.1: Proportion of households having access to toilet facility (Urban and Rural),Rural,50.9
+2015-16,6.2.2: Percentage of Districts achieving Open Defecation Free (ODF) target,Total,0.72
+2015-16,"6.2.3: Proportion of schools with separate toilet facility for girls,(in percentage)",Total,96.9
+2015-16,"6.4.2: Per capita storage of water, (in m3/person)",Total,198.02
+2015-16,7.2.1: Renewable energy share in the total installed electricity generation,Total,13.4
+2015-16,"7.3.1: Energy intensity measured in terms of primary energy and GDP, (in mega joules per rupee)",Total,0.2072
+2015-16,8.1.1: Annual growth rate of GDP (adjusted to price changes) per capita,Total,6.6
+2015-16,"8.10.1 (a): Number of banking outlets per 1,00,000 population, (b) Automated Teller Machines (ATMs) per 1,00,000 population",ATMs,16.5
+2015-16,"8.10.1 (a): Number of banking outlets per 1,00,000 population, (b) Automated Teller Machines (ATMs) per 1,00,000 population",Banking Outlets,59.9
+2015-16,"8.10.2: Number of accounts (include deposit and credit accounts) of scheduled commercial banks per 1,000 population",Total,1408.0
+2015-16,"8.2.2: Total number of patents issued (granted), (similar to Indicator 8.3.2 and 9.5.3) )",Total,6326.0
+2015-16,8.2.3: Annual growth in manufacturing sector,Manufacturing,13.1
+2015-16,8.2.4: Annual growth in agriculture sector,"Agriculture, forestry and fishing",0.6
+2015-16,"8.3.2: Total number of patents issued (granted), (similar to Indicator 8.2.2 and 9.5.3) )",Total,6326.0
+2015-16,8.3.3: Outstanding Credit to MSME,Total,1216007.09
+2015-16,"8.4.2: Per capita fossil fuel consumption, (in Kg.)",Total,136.9
+2015-16,8.8.3: Percentage of households receiving social protection benefits under Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA),Total,36.72
+2015-16,"9.1.2: Passenger and freight volumes, by mode of transport",Airline Domestic - Cargo,0.62
+2015-16,"9.1.2: Passenger and freight volumes, by mode of transport",Airline Domestic - Passengers,85.2
+2015-16,"9.1.2: Passenger and freight volumes, by mode of transport",Airline International - Cargo,0.25
+2015-16,"9.1.2: Passenger and freight volumes, by mode of transport",Airline International - Passengers,18.63
+2015-16,"9.1.2: Passenger and freight volumes, by mode of transport",Railways Freight,655605.0
+2015-16,"9.1.2: Passenger and freight volumes, by mode of transport",Railways Passengers,8107.0
+2015-16,"9.1.2: Passenger and freight volumes, by mode of transport",Road Freight,2027.4
+2015-16,"9.1.2: Passenger and freight volumes, by mode of transport",Road Passengers,15428.0
+2015-16,9.1.3: Gross Capital Formation by industry of use,Constant Prices,3731740.0
+2015-16,9.1.3: Gross Capital Formation by industry of use,Current Prices,4219570.0
+2015-16,9.2.1: Manufacturing Value Added (MVA) as a proportion of Gross Domestic Product (GDP) and per capita,At constant price,16.75
+2015-16,9.2.1: Manufacturing Value Added (MVA) as a proportion of Gross Domestic Product (GDP) and per capita,At current price,15.58
+2015-16,9.2.1: Manufacturing Value Added (MVA) as a proportion of Gross Domestic Product (GDP) and per capita,Per capita,1483.9
+2015-16,9.2.3: Percentage Share of GVA in Manufacturing to Total GVA,GVA,17.1
+2015-16,"9.3.1: Share of household sector in total industry value added, (in percentage)",Total,43.7
+2015-16,"9.3.2: Percentage of credit flow MSME (as a percentage of Total Adjusted Net Bank Credit), (in percentage)",Total,18.18
+2015-16,9.4.1: Total CO2 emissions of power sector per unit of GDP(in Tonne/Rupees Crore),Total,61.45
+2015-16,9.5.1: Research and development expenditure as a proportion of GDP,Total,3.52
+2015-16,9.5.2: Researchers (in full time equivalent) per million population,Total,218.0
+2015-16,"9.5.3: Total number of patents issued (granted), (similar to Indicator 8.2.2 and 8.3.2) )",Total,6326.0
+2015-16,"9.b.1: Share of IPP in total Gross Fixed Capital Formation, (in percentage)",Total,12.26
+2015-16,"9.b.2: Share of GVA of Information and Computer related activities in total GVA, (in percentage)",Constant Prices,4.54
+2015-16,"9.b.2: Share of GVA of Information and Computer related activities in total GVA, (in percentage)",Current Prices,4.17
+2015-16,9.c.1: Number of Internet Subscription as percentage of total population,Total,26.98
+2015-16,"9.c.2: No. of Broadband Subscribers per 10,000 persons",Total,1179.0
+2015-16 ,7.1.2: Percentage of households using clean cooking fuel,Total,62.83
+2015-16 ,8.9.1: Direct contribution of Tourism to total GDP and in growth rate (in percentage),Total share in GDP (in %),2.65
+2015-17,14.2.1: Percentage change in area under mangroves (similar to Indicator 14.5.2),Total,3.82
+2015-17,14.5.2: Percentage change in area under mangroves (similar to Indicator 14.2.1),Total,3.82
+2015-17,15.2.1: Percentage change in Forest cover,Total,0.97
+2015-17,15.4.1: Percentage change in forest cover in hill districts,Total,0.16
+2015-17,2.4.2: Percentage of farmers issued Soil Health Card,Total,100.0
+2015-17,"3.1.1: Maternal Mortality Ratio (MMR), (per 1,00,000 live births)",Total,122.0
+2015-17,5.1.3: Sex Ratio at Birth,Total,896.0
+2016,"1.5.1: Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population (similar to 11.5.1 and 13.1.1)",Total,13706.39
+2016,"10.2.2: Proportion of seats held by women in national Parliament, State legislation and Local Self Government (similar to Indicator 5.5.1 and 16.7.1)",Rajya Sabha,11.07
+2016,10.7.1: Recruitment cost borne by employee as a proportion of monthly income earned in country of destination,Total,1.43
+2016,11.2.2: People killed/injured in road accidents (similar to 3.6.1 ),Death Rate,11.92
+2016,11.2.2: People killed/injured in road accidents (similar to 3.6.1 ),Injury Rate,38.11
+2016,11.3.1: Proportion of Cities with Master Plan (similar to 11.a.1),Total,33.17
+2016,"11.5.1: Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population (similar to 1.5.1 and 13.1.1)",Total,13706.39
+2016,11.6.1: Percentage of Waste processed,Total,17.97
+2016,11.6.4: Percentage of wards with 100% door to door waste collection,Total,43.0
+2016,11.a.1: Proportion of Cities with Master Plan (similar to 11.3.1),Total,33.17
+2016,12.3.1: Per capita food availability,Food Grains,177.7
+2016,12.a.1: Installed renewable energy generating capacity in the country (similar to 7.b.1 ),Total,69.51
+2016,"13.1.1: Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population (similar to 11.5.1 and 1.5.1 )",Total,13706.39
+2016,15.1.2: Protected area as percentage of total geographical area,Total,5.08
+2016,15.1.3: Area of Ramsar sites as a percentage to the total wetland area,Total,4.15
+2016,"15.7.1: Number of cases registered under the Wildlife Protection Act, 1972 (similar to 15.c.1)",Total,565.0
+2016,"15.c.1: Number of cases registered under the Wildlife Protection Act, 1972 (similar to 15.7.1)",Total,565.0
+2016,"16.1.1: Number of victims of intentional homicide per 1,00,000 population.",Total,2.47
+2016,"16.1.2: Per 1,00,000 Population subjected to physical, psychological or sexual violence in the previous 12 months",Total,59.07
+2016,"16.2.1: Proportion of Crime Committed against Children during the year, (rate per 1,00,000 children)",Total,24.95
+2016,"16.2.2: Number of victims rescued from human trafficking per 1,00,000 population, by sex, age and form of exploitation",Total,1.81
+2016,16.2.3: Number of Missing Children (similar to Indicator 8.7.2 ),Total,63407.0
+2016,16.3.1: Number of courts per lakh population,Courts,1.89
+2016,16.3.2: Unsentenced detainees as a proportion of overall prison population,Undertrials,67.7
+2016,16.3.3: Number of Judges (all levels) per lakh population,Judges,1.32
+2016,16.4.1: Number of cases under the Arms Act,Arms Cases,55660.0
+2016,16.4.2: Value of Property Stolen and Recovered and Percentage Recovery,Percentage Recovery of Stolen Property,15.0
+2016,16.4.2: Value of Property Stolen and Recovered and Percentage Recovery,Properties Recovered,1459.0
+2016,16.4.2: Value of Property Stolen and Recovered and Percentage Recovery,Properties Stolen,9733.1
+2016,"16.5.1: Cases reported under Prevention of Corruption Act and related section of IPC per 1,00,000 population",Total,0.35
+2016,"16.7.1: Proportion of seats held by women in national Parliament, State legislation and Local Self Government (similar to Indicator 5.5.1 and 10.2.2)",Rajya Sabha,11.07
+2016,16.9.1: Percentage of births registered,Total,86.0
+2016,17.11.1: Share of India�s exports in Global exports,Commercial Services Exports,3.21
+2016,17.11.1: Share of India�s exports in Global exports,Merchandise Exports,1.65
+2016,17.19.2: Proportion of States/UTs that have achieved 100 per cent birth registration and 80 per cent death registration,Birth,41.7
+2016,17.19.2: Proportion of States/UTs that have achieved 100 per cent birth registration and 80 per cent death registration,Death,63.9
+2016,2.5.1: Number of (a) plant and (b) animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities,Animal,9912.0
+2016,2.5.1: Number of (a) plant and (b) animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities,Plant,444607.0
+2016,3.2.1: Under-five Mortality Rate,Total Person,39.0
+2016,3.2.2: Neonatal Mortality Rate,Total,24.0
+2016,"3.3.2: Tuberculosis incidence per 1,00,000 population",Total,211.0
+2016,"3.3.3: Malaria incidence per 1,000 population",Total,0.85
+2016,3.3.5: Dengue: Case Fatality Ratio (CFR),Total,0.19
+2016,"3.3.7: Percentage of blocks reporting < 1 Kala Azar case per 10,000 population out of the total endemic blocks",Total,85.15
+2016,3.3.8: Percentage of districts reporting < 1% Microfilaria rate (MF) out of Targeted Endemic districts,Total,30.47
+2016,"3.4.2. Suicide mortality rate (per 1,00,000 population)",Total,10.3
+2016,3.6.1: People killed/injured in road accidents (similar to 11.2.2),Death Rate,11.92
+2016,3.6.1: People killed/injured in road accidents (similar to 11.2.2),Injury Rate,38.11
+2016,"3.7.2: Adolescent birth rate (aged 15�19 years) per 1,000 women in that age group",Total,10.7
+2016,"3.8.8: Total physicians, nurses and midwives per 10,000 population (similar to Indicator 3.c.1)",Total,36.4
+2016,3.9.3: Mortality rate attributed to unintentional poisoning,Total,1.81
+2016,"3.c.1: Total physicians, nurses and midwives per 10,000 population (similar to Indicator 3.8.8)",Total,36.4
+2016,5.1.2: Per lakh women that have been subjected to dowry offences during the year,Total,2.82
+2016,"5.1.4: Rate of Crimes Against Women Per 1,00,000 Female Population",Female,55.19
+2016,5.2.1: Proportion of crime against women to total crime reported in the country during the calendar year,Total,7.02
+2016,5.2.2: Per lakh women who have experienced sexual crimes during the calendar year,Total,23.1
+2016,5.2.3: Per lakh women who have experienced cruelty/physical violence by husband or his relatives during the year,Total,18.05
+2016,5.2.4: Proportion of sexual crime against girl children to total crime against children during the calendar year,Total,43.02
+2016,5.2.5: Proportion of trafficking of girl children to total children trafficked during the calendar year,Total,54.36
+2016,"5.3.2: Proportion of cases reported under the Prohibition of Child Marriage Act (early marriage of children below 18 years of age) to total crime against children, (in percentage)",Total,0.3
+2016,"5.5.1: Proportion of seats held by women in national Parliament, State legislation and Local Self Government (similar to Indicator 10.2.2 and 16.7.1)",Rajya Sabha,11.07
+2016,6.3.2: Proportion of water bodies with good ambient water quality,Total,87.0
+2016,7.b.1: Installed renewable energy generating capacity in the country(in watts per capita) (similar to 12.a.1),Total,69.51
+2016,8.3.5: Number of start-ups recognized under Start-up India,Total,502.0
+2016,"8.7.1: Human trafficking cases per 10,00,000 population.",Total,6.38
+2016,8.7.2: Number of Missing Children (similar to Indicator 16.2.3),Total,63407.0
+2016,8.8.1: Number of accidents in factories,Total,6556.0
+2016,8.9.2: Percentage change in number of visits by tourists (domestic and foreign) over previous years,Total,12.7
+2016-17,1.3.2: Number of beneficiaries under Integrated Child Development Scheme - ICDS,Total Beneficiaries (Children 6 month-6 years plus P&LM),98342390.0
+2016-17,1.3.3: Persons provided employment as a percentage of persons who demanded employment under Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA),Total,85.3
+2016-17,1.3.4: Number of Self Help Groups (SHGs) provided bank credit linkage,Total SHGs,18.98
+2016-17,1.3.6: Number of senior citizens provided institutional assistance through Senior Citizen Homes/Day Care Centers funded by the Government,Total,40200.0
+2016-17,1.3.7: Number of beneficiaries added under Employee�s Pension Scheme (EPS) during the year,Total,24229144.0
+2016-17,1.3.8: Coverage of New Pension Scheme (NPS),Total,10575160.0
+2016-17,1.4.2: Number of telephone subscriptions as percentage of total population,Total,93.01
+2016-17,"1.a.2: Proportion of total government spending on essential services (education, health and social protection)",Essential Services,30.23
+2016-17,1.b.1: Proportion of budget earmarked under gender budget,Total,4.58
+2016-17,10.4.1: Labour Share of GDP,Total,30.49
+2016-17,10.4.2: Percentage of budget allocated to North Eastern States,Total,1.62
+2016-17,10.4.3: Percentage of budget allocated for welfare of Scheduled Caste and Scheduled Caste,Total,2.83
+2016-17,"11.4.1: Total per capita expenditure on the preservation, protection and conservation of all cultural and natural heritage",Total,2.32
+2016-17,12.3.2: Post harvest storage and distribution losses of Central/States Pool stocks of wheat and rice,Storage Loss,-0.11
+2016-17,12.3.2: Post harvest storage and distribution losses of Central/States Pool stocks of wheat and rice,Transit Loss,0.3
+2016-17,12.c.1: Amount of fossil fuel subsidy per unit of GDP,Total,0.18
+2016-17,"14.1.2: Percentage use of nitrogenous fertilizers to total fertilizers (N, P & K)",Total,64.49
+2016-17,14.4.1: Maximum Sustainable Yield (MSY) in fishing,Total,3.078
+2016-17,14.b.1: Assistance to the traditional / artisanal fishers for procurement of FRP boats and other associated fishing implements,Boats,259.0
+2016-17,14.b.1: Assistance to the traditional / artisanal fishers for procurement of FRP boats and other associated fishing implements,Project cost,1098.25
+2016-17,15.2.2: Total area covered under different Afforestation schemes,Total,1839458.0
+2016-17,15.4.2: Percentage change in per capita income of Himalayan States over previous year,Total,9.77
+2016-17,15.b.1: Percentage of government spending on environmental protection to total government expenditure,Total,0.04
+2016-17,16.10.1: Percentage of RTI queries responded (similar to Indicator 16.6.2),Total,80.9
+2016-17,16.6.1: Primary government expenditures as a proportion of original approved budget,Total,99.86
+2016-17,16.6.2: Percentage of RTI queries responded (similar to 16.10.1),Total,80.9
+2016-17,16.6.3: Number of Government services provided online to citizens.,Online Services,1052.0
+2016-17,16.9.2: Proportion of population covered under Aadhaar,Total,85.7
+2016-17,"17.1.1: Total government revenue as a proportion of GDP, by source",Total,8.93
+2016-17,17.1.2: Proportion of domestic budget funded by domestic taxes,Total,71.58
+2016-17,17.19.1: Budget allocated to different Ministries for strengthening statistics,Total,307451.0
+2016-17,17.3.1: Foreign Direct Investment as proportion of Gross National Income.,Total,1.86
+2016-17,17.3.2: Volume of remittances as a proportion of total GDP,Total,2.47
+2016-17,17.4.1: Debt service as a proportion of exports of goods and services.,Total,9.8
+2016-17,"17.6.1: Fixed internet broadband subscriptions per 100 inhabitants, by speed.",Broadband ( >= 512 Kbps),1.404
+2016-17,"17.6.1: Fixed internet broadband subscriptions per 100 inhabitants, by speed.",Narrowband ( < 512 Kbps),0.256
+2016-17,2.1.2: Proportion of beneficiaries covered under National Food Security Act 2013,Total,99.01
+2016-17,2.3.1: Agriculture productivity of wheat and rice,Rice,2494.0
+2016-17,2.3.1: Agriculture productivity of wheat and rice,Wheat,3200.0
+2016-17,2.3.2: Gross Value Added in Agriculture per worker,Total,65602.0
+2016-17,2.3.3: Ratio of institutional Credit to Agriculture to the Agriculture output,Total,0.54
+2016-17,2.4.1: Proportion of Net Sown Area to Cultivable land,Total,76.97
+2016-17,2.4.3: Percentage of net area under organic farming,Total,1.1041
+2016-17,2.5.3: Conservation of fish genetic resource (in number),Total,1549.0
+2016-17,2.a.1: The agriculture orientation index for government expenditures,Total,0.399
+2016-17,2.a.2: Percentage share of expenditure in Intellectual Property Product (R&D) in agriculture to GVA in agriculture,Total,0.052
+2016-17,2.c.1: Percentage of Agriculture Mandis enrolled in e-market,Total,6.49
+2016-17,"3.3.1: Number of new HIV infections per 1,000 uninfected population",Total,0.07
+2016-17,3.5.2: Number of persons treated in de-addiction centers,Total,114759.0
+2016-17,3.a.1: Percentage of adults 15 years and above with use of any kind of tobacco (smoking and smokeless),Total,28.6
+2016-17,3.b.2: Budgetary allocation for Department of Health Research,Total,1144.8
+2016-17,3.c.2: Percentage of government spending (including current and capital expenditure) in health sector to GDP,Total,1.18
+2016-17,"4.1.2: Gross Intake Ratio to the last grade (primary, upper primary and secondary)",Grade 10,80.39
+2016-17,"4.1.2: Gross Intake Ratio to the last grade (primary, upper primary and secondary)",Grade 5,97.58
+2016-17,"4.1.2: Gross Intake Ratio to the last grade (primary, upper primary and secondary)",Grade 8,98.85
+2016-17,4.1.3: Gross Enrolment Rate(GER) in higher secondary education,Total,43.77
+2016-17,4.1.4: Net Enrolment Rate(NER) in primary and upper primary education,Primary,91.31
+2016-17,4.1.4: Net Enrolment Rate(NER) in primary and upper primary education,Upper Primary,70.71
+2016-17,"4.1.5: Adjusted Net Enrolment Rate(ANER) in primary, upper primary and secondary education",Primary,96.08
+2016-17,"4.1.5: Adjusted Net Enrolment Rate(ANER) in primary, upper primary and secondary education",Secondary,58.03
+2016-17,"4.1.5: Adjusted Net Enrolment Rate(ANER) in primary, upper primary and secondary education",Upper Primary,79.66
+2016-17,4.3.3: Gross enrolment ratio for tertiary education,Tertiary Education,25.2
+2016-17,4.5.1: Gender Parity Indices (GPI) for primary/secondary/higher secondary/tertiary education,Higher Secondary,1.02
+2016-17,4.5.1: Gender Parity Indices (GPI) for primary/secondary/higher secondary/tertiary education,Primary,1.02
+2016-17,4.5.1: Gender Parity Indices (GPI) for primary/secondary/higher secondary/tertiary education,Secondary,1.02
+2016-17,4.5.1: Gender Parity Indices (GPI) for primary/secondary/higher secondary/tertiary education,Tertiary Education,0.94
+2016-17,4.5.2: Enrolment ratio of children with disabilities,Elementary,1.1
+2016-17,4.5.2: Enrolment ratio of children with disabilities,Higher Secondary,0.28
+2016-17,4.5.2: Enrolment ratio of children with disabilities,Primary,1.09
+2016-17,4.5.2: Enrolment ratio of children with disabilities,Secondary,0.56
+2016-17,4.5.2: Enrolment ratio of children with disabilities,Upper Primary,1.13
+2016-17,4.a.1: Proportion of schools with access to: (a) electricity; (b) computers for pedagogical purposes; (c) adapted infrastructure and materials for students with disabilities/ disabled friendly ramp and toilets; (d) basic drinking water; (e) single-sex basic sanitation facilities; and (f) basic hand washing facilities (as per the WASH indicator definitions),Adapted infrastructure and materials for students with disabilities/disabled friendly  Toilets,22.44
+2016-17,4.a.1: Proportion of schools with access to: (a) electricity; (b) computers for pedagogical purposes; (c) adapted infrastructure and materials for students with disabilities/ disabled friendly ramp and toilets; (d) basic drinking water; (e) single-sex basic sanitation facilities; and (f) basic hand washing facilities (as per the WASH indicator definitions),Adapted infrastructure and materials for students with disabilities/disabled friendly Ramp ,61.31
+2016-17,4.a.1: Proportion of schools with access to: (a) electricity; (b) computers for pedagogical purposes; (c) adapted infrastructure and materials for students with disabilities/ disabled friendly ramp and toilets; (d) basic drinking water; (e) single-sex basic sanitation facilities; and (f) basic hand washing facilities (as per the WASH indicator definitions),Basic drinking water,87.34
+2016-17,4.a.1: Proportion of schools with access to: (a) electricity; (b) computers for pedagogical purposes; (c) adapted infrastructure and materials for students with disabilities/ disabled friendly ramp and toilets; (d) basic drinking water; (e) single-sex basic sanitation facilities; and (f) basic hand washing facilities (as per the WASH indicator definitions),Basic hand washing facilities (as per the WASH indicator definitions),55.55
+2016-17,4.a.1: Proportion of schools with access to: (a) electricity; (b) computers for pedagogical purposes; (c) adapted infrastructure and materials for students with disabilities/ disabled friendly ramp and toilets; (d) basic drinking water; (e) single-sex basic sanitation facilities; and (f) basic hand washing facilities (as per the WASH indicator definitions),Computers for pedagogical purposes,28.24
+2016-17,4.a.1: Proportion of schools with access to: (a) electricity; (b) computers for pedagogical purposes; (c) adapted infrastructure and materials for students with disabilities/ disabled friendly ramp and toilets; (d) basic drinking water; (e) single-sex basic sanitation facilities; and (f) basic hand washing facilities (as per the WASH indicator definitions),Electricity,60.81
+2016-17,4.a.1: Proportion of schools with access to: (a) electricity; (b) computers for pedagogical purposes; (c) adapted infrastructure and materials for students with disabilities/ disabled friendly ramp and toilets; (d) basic drinking water; (e) single-sex basic sanitation facilities; and (f) basic hand washing facilities (as per the WASH indicator definitions),Single-sex basic sanitation facilities (Boys),95.62
+2016-17,4.a.1: Proportion of schools with access to: (a) electricity; (b) computers for pedagogical purposes; (c) adapted infrastructure and materials for students with disabilities/ disabled friendly ramp and toilets; (d) basic drinking water; (e) single-sex basic sanitation facilities; and (f) basic hand washing facilities (as per the WASH indicator definitions),Single-sex basic sanitation facilities (Girls),96.88
+2016-17,"4.c.1: Proportion of trained teacher, by education level (primary, upper primary, elementary, secondary and higher secondary education), (in percentage)",Higher Secondary,84.21
+2016-17,"4.c.1: Proportion of trained teacher, by education level (primary, upper primary, elementary, secondary and higher secondary education), (in percentage)",Primary,67.22
+2016-17,"4.c.1: Proportion of trained teacher, by education level (primary, upper primary, elementary, secondary and higher secondary education), (in percentage)",Secondary,79.96
+2016-17,"4.c.1: Proportion of trained teacher, by education level (primary, upper primary, elementary, secondary and higher secondary education), (in percentage)",Upper Primary,72.62
+2016-17,"5.5.2: Proportion of women in managerial positions including women in Board of Director, in listed companies, (per 1,000 persons)",Total,177.0
+2016-17,"5.a.5: Exclusive women SHGs in Bank linked SHGs, (in percentage)",Total,90.41
+2016-17,5.c.1: Number of Central Ministries and States having Gender Budget Cells (GBCs),Central Ministries,57.0
+2016-17,5.c.1: Number of Central Ministries and States having Gender Budget Cells (GBCs),States/UT,23.0
+2016-17,6.1.1: Percentage of Population getting safe and adequate drinking water within premises through Pipe Water Supply (PWS),Rural,36.52
+2016-17,6.1.2: Percentage of population using an improved drinking water source (Rural),Rural,94.35
+2016-17,6.2.1: Proportion of households having access to toilet facility (Urban and Rural),Rural,63.02
+2016-17,6.2.2: Percentage of Districts achieving Open Defecation Free (ODF) target,Total,18.45
+2016-17,"6.2.3: Proportion of schools with separate toilet facility for girls,(in percentage)",Total,96.88
+2016-17,7.1.2: Percentage of households using clean cooking fuel,Total,74.16
+2016-17,7.2.1: Renewable energy share in the total installed electricity generation,Total,15.5
+2016-17,"7.3.1: Energy intensity measured in terms of primary energy and GDP, (in mega joules per rupee)",Total,0.191
+2016-17,8.1.1: Annual growth rate of GDP (adjusted to price changes) per capita,Total,6.9
+2016-17,"8.10.1 (a): Number of banking outlets per 1,00,000 population, (b) Automated Teller Machines (ATMs) per 1,00,000 population",ATMs,17.1
+2016-17,"8.10.1 (a): Number of banking outlets per 1,00,000 population, (b) Automated Teller Machines (ATMs) per 1,00,000 population",Banking Outlets,60.5
+2016-17,"8.10.2: Number of accounts (include deposit and credit accounts) of scheduled commercial banks per 1,000 population",Total,1538.0
+2016-17,"8.2.2: Total number of patents issued (granted), (similar to Indicator 8.3.2 and 9.5.3) )",Total,9847.0
+2016-17,8.2.3: Annual growth in manufacturing sector,Manufacturing,7.9
+2016-17,8.2.4: Annual growth in agriculture sector,"Agriculture, forestry and fishing",6.8
+2016-17,"8.3.2: Total number of patents issued (granted), (similar to Indicator 8.2.2 and 9.5.3) )",Total,9847.0
+2016-17,8.3.3: Outstanding Credit to MSME,Total,1296398.83
+2016-17,8.3.4: Number of MSME units registered under the online Udyog Aadhaar registration,Total,2373195.0
+2016-17,"8.4.2: Per capita fossil fuel consumption, (in Kg.)",Total,141.5
+2016-17,8.8.3: Percentage of households receiving social protection benefits under Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA),Total,39.87
+2016-17,"9.1.2: Passenger and freight volumes, by mode of transport",Airline Domestic - Cargo,0.64
+2016-17,"9.1.2: Passenger and freight volumes, by mode of transport",Airline Domestic - Passengers,103.75
+2016-17,"9.1.2: Passenger and freight volumes, by mode of transport",Airline International - Cargo,0.29
+2016-17,"9.1.2: Passenger and freight volumes, by mode of transport",Airline International - Passengers,20.81
+2016-17,"9.1.2: Passenger and freight volumes, by mode of transport",Railways Freight,620858.0
+2016-17,"9.1.2: Passenger and freight volumes, by mode of transport",Railways Passengers,8116.0
+2016-17,"9.1.2: Passenger and freight volumes, by mode of transport",Road Freight,2260.2
+2016-17,"9.1.2: Passenger and freight volumes, by mode of transport",Road Passengers,17832.0
+2016-17,9.1.3: Gross Capital Formation by industry of use,Constant Prices,3910207.0
+2016-17,9.1.3: Gross Capital Formation by industry of use,Current Prices,4476754.0
+2016-17,9.2.1: Manufacturing Value Added (MVA) as a proportion of Gross Domestic Product (GDP) and per capita,At constant price,16.69
+2016-17,9.2.1: Manufacturing Value Added (MVA) as a proportion of Gross Domestic Product (GDP) and per capita,At current price,15.16
+2016-17,9.2.1: Manufacturing Value Added (MVA) as a proportion of Gross Domestic Product (GDP) and per capita,Per capita,1581.8
+2016-17,9.2.3: Percentage Share of GVA in Manufacturing to Total GVA,GVA,16.7
+2016-17,"9.3.1: Share of household sector in total industry value added, (in percentage)",Total,43.71
+2016-17,"9.3.2: Percentage of credit flow MSME (as a percentage of Total Adjusted Net Bank Credit), (in percentage)",Total,17.29
+2016-17,9.4.1: Total CO2 emissions of power sector per unit of GDP(in Tonne/Rupees Crore),Total,57.71
+2016-17,"9.4.2: Energy use intensity of manufacturing value added, (Tonne of Oil Equivalent /000� rupees)",Total,0.0094
+2016-17,9.5.1: Research and development expenditure as a proportion of GDP,Total,3.82
+2016-17,"9.5.3: Total number of patents issued (granted), (similar to Indicator 8.2.2 and 8.3.2) )",Total,9847.0
+2016-17,"9.b.1: Share of IPP in total Gross Fixed Capital Formation, (in percentage)",Total,13.55
+2016-17,"9.b.2: Share of GVA of Information and Computer related activities in total GVA, (in percentage)",Constant Prices,4.9
+2016-17,"9.b.2: Share of GVA of Information and Computer related activities in total GVA, (in percentage)",Current Prices,4.45
+2016-17,9.c.1: Number of Internet Subscription as percentage of total population,Total,32.86
+2016-17,"9.c.2: No. of Broadband Subscribers per 10,000 persons",Total,2152.0
+2016-17 ,8.9.1: Direct contribution of Tourism to total GDP and in growth rate (in percentage),Growth Rate,10.68
+2016-17 ,8.9.1: Direct contribution of Tourism to total GDP and in growth rate (in percentage),Total share in GDP (in %),2.62
+2016-18,"3.1.1: Maternal Mortality Ratio (MMR), (per 1,00,000 live births)",Total,113.0
+2016-18,5.1.3: Sex Ratio at Birth,Total,899.0
+2017,"1.5.1: Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population (similar to 11.5.1 and 13.1.1)",Total,13381.24
+2017,10.7.1: Recruitment cost borne by employee as a proportion of monthly income earned in country of destination,Total,1.43
+2017,11.2.2: People killed/injured in road accidents (similar to 3.6.1 ),Death Rate,11.65
+2017,11.2.2: People killed/injured in road accidents (similar to 3.6.1 ),Injury Rate,35.41
+2017,11.3.1: Proportion of Cities with Master Plan (similar to 11.a.1),Total,34.51
+2017,"11.5.1: Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population (similar to 1.5.1 and 13.1.1)",Total,13381.24
+2017,11.6.1: Percentage of Waste processed,Total,23.14
+2017,11.6.4: Percentage of wards with 100% door to door waste collection,Total,53.0
+2017,11.a.1: Proportion of Cities with Master Plan (similar to 11.3.1),Total,34.51
+2017,12.3.1: Per capita food availability,Food Grains,178.4
+2017,12.a.1: Installed renewable energy generating capacity in the country (similar to 7.b.1 ),Total,78.73
+2017,"13.1.1: Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population (similar to 11.5.1 and 1.5.1 )",Total,13381.24
+2017,15.1.1: Forest cover as a percentage of total geographical area,Total,21.54
+2017,15.1.2: Protected area as percentage of total geographical area,Total,5.13
+2017,15.1.3: Area of Ramsar sites as a percentage to the total wetland area,Total,4.15
+2017,15.2.3: Tree cover as percentage of total geographical area,Total,2.85
+2017,"15.7.1: Number of cases registered under the Wildlife Protection Act, 1972 (similar to 15.c.1)",Total,342.0
+2017,"15.c.1: Number of cases registered under the Wildlife Protection Act, 1972 (similar to 15.7.1)",Total,342.0
+2017,"16.1.1: Number of victims of intentional homicide per 1,00,000 population.",Total,2.34
+2017,"16.1.2: Per 1,00,000 Population subjected to physical, psychological or sexual violence in the previous 12 months",Total,97.74
+2017,"16.2.1: Proportion of Crime Committed against Children during the year, (rate per 1,00,000 children)",Total,31.13
+2017,"16.2.2: Number of victims rescued from human trafficking per 1,00,000 population, by sex, age and form of exploitation",Total,0.45
+2017,16.2.3: Number of Missing Children (similar to Indicator 8.7.2 ),Total,63349.0
+2017,16.3.1: Number of courts per lakh population,Courts,1.8
+2017,16.3.2: Unsentenced detainees as a proportion of overall prison population,Undertrials,68.5
+2017,16.3.3: Number of Judges (all levels) per lakh population,Judges,1.33
+2017,16.4.1: Number of cases under the Arms Act,Arms Cases,58053.0
+2017,16.4.2: Value of Property Stolen and Recovered and Percentage Recovery,Percentage Recovery of Stolen Property,25.9
+2017,16.4.2: Value of Property Stolen and Recovered and Percentage Recovery,Properties Recovered,1296.1
+2017,16.4.2: Value of Property Stolen and Recovered and Percentage Recovery,Properties Stolen,5002.5
+2017,"16.5.1: Cases reported under Prevention of Corruption Act and related section of IPC per 1,00,000 population",Total,0.32
+2017,16.9.1: Percentage of births registered,Total,84.9
+2017,17.11.1: Share of India�s exports in Global exports,Commercial Services Exports,3.39
+2017,17.11.1: Share of India�s exports in Global exports,Merchandise Exports,1.69
+2017,17.19.2: Proportion of States/UTs that have achieved 100 per cent birth registration and 80 per cent death registration,Birth,33.3
+2017,17.19.2: Proportion of States/UTs that have achieved 100 per cent birth registration and 80 per cent death registration,Death,61.1
+2017,2.5.1: Number of (a) plant and (b) animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities,Animal,24852.0
+2017,2.5.1: Number of (a) plant and (b) animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities,Plant,449702.0
+2017,3.2.1: Under-five Mortality Rate,Total Person,37.0
+2017,3.2.2: Neonatal Mortality Rate,Total,23.0
+2017,"3.3.2: Tuberculosis incidence per 1,00,000 population",Total,204.0
+2017,"3.3.3: Malaria incidence per 1,000 population",Total,0.64
+2017,3.3.5: Dengue: Case Fatality Ratio (CFR),Total,0.17
+2017,"3.3.7: Percentage of blocks reporting < 1 Kala Azar case per 10,000 population out of the total endemic blocks",Total,88.63
+2017,3.3.8: Percentage of districts reporting < 1% Microfilaria rate (MF) out of Targeted Endemic districts,Total,34.77
+2017,"3.4.2. Suicide mortality rate (per 1,00,000 population)",Total,10.1
+2017,3.6.1: People killed/injured in road accidents (similar to 11.2.2),Death Rate,11.65
+2017,3.6.1: People killed/injured in road accidents (similar to 11.2.2),Injury Rate,35.41
+2017,"3.7.2: Adolescent birth rate (aged 15�19 years) per 1,000 women in that age group",Total,13.0
+2017,3.8.7: Percentage of TB cases successfully treated (cured plus treatment completed) among TB cases notified to the national health authorities during a specified period,Total,65.25
+2017,"3.8.8: Total physicians, nurses and midwives per 10,000 population (similar to Indicator 3.c.1)",Total,37.6
+2017,3.9.3: Mortality rate attributed to unintentional poisoning,Total,1.61
+2017,"3.c.1: Total physicians, nurses and midwives per 10,000 population (similar to Indicator 3.8.8)",Total,37.6
+2017,"5.1.1: Whether or not legal framework are in place to promote, enforce and monitor equality and nondiscrimination on the basis of sex.",Employment and economic benefits,87.5
+2017,"5.1.1: Whether or not legal framework are in place to promote, enforce and monitor equality and nondiscrimination on the basis of sex.",Marriage and family,100.0
+2017,"5.1.1: Whether or not legal framework are in place to promote, enforce and monitor equality and nondiscrimination on the basis of sex.",Overarching legal frameworks and public life,76.9
+2017,"5.1.1: Whether or not legal framework are in place to promote, enforce and monitor equality and nondiscrimination on the basis of sex.",Violence against women,92.3
+2017,5.1.2: Per lakh women that have been subjected to dowry offences during the year,Total,2.93
+2017,"5.1.4: Rate of Crimes Against Women Per 1,00,000 Female Population",Female,57.93
+2017,5.2.1: Proportion of crime against women to total crime reported in the country during the calendar year,Total,7.19
+2017,5.2.2: Per lakh women who have experienced sexual crimes during the calendar year,Total,27.2
+2017,5.2.3: Per lakh women who have experienced cruelty/physical violence by husband or his relatives during the year,Total,17.4
+2017,5.2.4: Proportion of sexual crime against girl children to total crime against children during the calendar year,Total,49.9
+2017,5.2.5: Proportion of trafficking of girl children to total children trafficked during the calendar year,Total,42.38
+2017,"5.3.2: Proportion of cases reported under the Prohibition of Child Marriage Act (early marriage of children below 18 years of age) to total crime against children, (in percentage)",Total,0.31
+2017,"5.b.1: Percentage of women employed in IT and ITeS industry, (in percentage)",Total,34.0
+2017,6.3.2: Proportion of water bodies with good ambient water quality,Total,88.0
+2017,6.4.1: Percentage ground water withdrawal against availability,Total,63.33
+2017,"6.6.1: Percentage of blocks/mandals/taluka over-exploited, (in percentage)",Total,17.0
+2017,7.b.1: Installed renewable energy generating capacity in the country(in watts per capita) (similar to 12.a.1),Total,78.73
+2017,8.3.5: Number of start-ups recognized under Start-up India,Total,5383.0
+2017,"8.7.1: Human trafficking cases per 10,00,000 population.",Total,2.21
+2017,8.7.2: Number of Missing Children (similar to Indicator 16.2.3),Total,63349.0
+2017,8.8.1: Number of accidents in factories,Total,5950.0
+2017,8.9.2: Percentage change in number of visits by tourists (domestic and foreign) over previous years,Total,2.7
+2017-18,1.3.2: Number of beneficiaries under Integrated Child Development Scheme - ICDS,Total Beneficiaries (Children 6 month-6 years plus P&LM),89276933.0
+2017-18,1.3.3: Persons provided employment as a percentage of persons who demanded employment under Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA),Total,84.7
+2017-18,1.3.4: Number of Self Help Groups (SHGs) provided bank credit linkage,Total SHGs,22.61
+2017-18,1.3.5: Proportion of the population (out of total eligible population) receiving social protection benefits under Pradhan Mantri Matritva Vandana Yojana (PMMVY),Total,91.66
+2017-18,1.3.6: Number of senior citizens provided institutional assistance through Senior Citizen Homes/Day Care Centers funded by the Government,Total,40450.0
+2017-18,1.3.7: Number of beneficiaries added under Employee�s Pension Scheme (EPS) during the year,Total,22395518.0
+2017-18,1.3.8: Coverage of New Pension Scheme (NPS),Total,11570930.0
+2017-18,1.4.2: Number of telephone subscriptions as percentage of total population,Total,93.27
+2017-18,"1.a.2: Proportion of total government spending on essential services (education, health and social protection)",Essential Services,29.7
+2017-18,1.b.1: Proportion of budget earmarked under gender budget,Total,5.68
+2017-18,10.4.1: Labour Share of GDP,Total,30.87
+2017-18,10.4.2: Percentage of budget allocated to North Eastern States,Total,1.92
+2017-18,10.4.3: Percentage of budget allocated for welfare of Scheduled Caste and Scheduled Caste,Total,3.81
+2017-18,"11.4.1: Total per capita expenditure on the preservation, protection and conservation of all cultural and natural heritage",Total,3.13
+2017-18,12.3.2: Post harvest storage and distribution losses of Central/States Pool stocks of wheat and rice,Storage Loss,-0.12
+2017-18,12.3.2: Post harvest storage and distribution losses of Central/States Pool stocks of wheat and rice,Transit Loss,0.25
+2017-18,"12.4.2: (a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment",Hazardous waste generated,201.45
+2017-18,"12.4.2: (a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment",Hazardous waste treated,0.51
+2017-18,12.c.1: Amount of fossil fuel subsidy per unit of GDP,Total,0.14
+2017-18,"14.1.2: Percentage use of nitrogenous fertilizers to total fertilizers (N, P & K)",Total,63.77
+2017-18,14.4.1: Maximum Sustainable Yield (MSY) in fishing,Total,5.311
+2017-18,14.b.1: Assistance to the traditional / artisanal fishers for procurement of FRP boats and other associated fishing implements,Boats,285.0
+2017-18,14.b.1: Assistance to the traditional / artisanal fishers for procurement of FRP boats and other associated fishing implements,Project cost,1012.5
+2017-18,15.2.2: Total area covered under different Afforestation schemes,Total,1315012.0
+2017-18,15.4.2: Percentage change in per capita income of Himalayan States over previous year,Total,15.08
+2017-18,15.b.1: Percentage of government spending on environmental protection to total government expenditure,Total,0.06
+2017-18,16.10.1: Percentage of RTI queries responded (similar to Indicator 16.6.2),Total,82.06
+2017-18,16.6.1: Primary government expenditures as a proportion of original approved budget,Total,99.78
+2017-18,16.6.2: Percentage of RTI queries responded (similar to 16.10.1),Total,82.06
+2017-18,16.6.3: Number of Government services provided online to citizens.,Online Services,2724.0
+2017-18,16.9.2: Proportion of population covered under Aadhaar,Total,88.5
+2017-18,"17.1.1: Total government revenue as a proportion of GDP, by source",Total,8.4
+2017-18,17.1.2: Proportion of domestic budget funded by domestic taxes,Total,71.65
+2017-18,17.19.1: Budget allocated to different Ministries for strengthening statistics,Total,295147.0
+2017-18,17.3.1: Foreign Direct Investment as proportion of Gross National Income.,Total,1.5
+2017-18,17.3.2: Volume of remittances as a proportion of total GDP,Total,2.42
+2017-18,17.4.1: Debt service as a proportion of exports of goods and services.,Total,8.9
+2017-18,"17.6.1: Fixed internet broadband subscriptions per 100 inhabitants, by speed.",Broadband ( >= 512 Kbps),1.366
+2017-18,"17.6.1: Fixed internet broadband subscriptions per 100 inhabitants, by speed.",Narrowband ( < 512 Kbps),0.25
+2017-18,2.1.2: Proportion of beneficiaries covered under National Food Security Act 2013,Total,99.24
+2017-18,2.3.1: Agriculture productivity of wheat and rice,Rice,2576.0
+2017-18,2.3.1: Agriculture productivity of wheat and rice,Wheat,3368.0
+2017-18,2.3.2: Gross Value Added in Agriculture per worker,Total,69936.0
+2017-18,2.3.3: Ratio of institutional Credit to Agriculture to the Agriculture output,Total,0.57
+2017-18,2.4.3: Percentage of net area under organic farming,Total,1.3929
+2017-18,2.5.3: Conservation of fish genetic resource (in number),Total,2443.0
+2017-18,2.a.1: The agriculture orientation index for government expenditures,Total,0.443
+2017-18,2.a.2: Percentage share of expenditure in Intellectual Property Product (R&D) in agriculture to GVA in agriculture,Total,0.041
+2017-18,2.c.1: Percentage of Agriculture Mandis enrolled in e-market,Total,3.1
+2017-18,"3.3.1: Number of new HIV infections per 1,000 uninfected population",Total,0.06
+2017-18,3.5.2: Number of persons treated in de-addiction centers,Total,100737.0
+2017-18,3.8.2: Proportion of population with large household expenditures on health as a share of total household expenditure or income,Total > 10%,4.48
+2017-18,3.8.2: Proportion of population with large household expenditures on health as a share of total household expenditure or income,Total > 25%,1.57
+2017-18,3.8.3: Percentage of people living with HIV currently receiving ART among the detected number of adults and children living with HIV,Total,70.0
+2017-18,3.b.2: Budgetary allocation for Department of Health Research,Total,1500.0
+2017-18,3.c.2: Percentage of government spending (including current and capital expenditure) in health sector to GDP,Total,1.24
+2017-18,"4.1.1: Percentage of students in grade 3, 5, 8 and 10 achieving at least a minimum proficiency level in terms of nationally defined learning outcomes to be attained by pupils at the end of each of above grades",Language (Class-3),90.29
+2017-18,"4.1.1: Percentage of students in grade 3, 5, 8 and 10 achieving at least a minimum proficiency level in terms of nationally defined learning outcomes to be attained by pupils at the end of each of above grades",Language (Class-5),85.55
+2017-18,"4.1.1: Percentage of students in grade 3, 5, 8 and 10 achieving at least a minimum proficiency level in terms of nationally defined learning outcomes to be attained by pupils at the end of each of above grades",Language (Class-8),82.82
+2017-18,"4.1.1: Percentage of students in grade 3, 5, 8 and 10 achieving at least a minimum proficiency level in terms of nationally defined learning outcomes to be attained by pupils at the end of each of above grades",Maths (Class-3),88.69
+2017-18,"4.1.1: Percentage of students in grade 3, 5, 8 and 10 achieving at least a minimum proficiency level in terms of nationally defined learning outcomes to be attained by pupils at the end of each of above grades",Maths (Class-5),79.81
+2017-18,"4.1.1: Percentage of students in grade 3, 5, 8 and 10 achieving at least a minimum proficiency level in terms of nationally defined learning outcomes to be attained by pupils at the end of each of above grades",Maths (Class-8),60.93
+2017-18,"4.1.2: Gross Intake Ratio to the last grade (primary, upper primary and secondary)",Grade 10,75.33
+2017-18,"4.1.2: Gross Intake Ratio to the last grade (primary, upper primary and secondary)",Grade 5,96.85
+2017-18,"4.1.2: Gross Intake Ratio to the last grade (primary, upper primary and secondary)",Grade 8,97.64
+2017-18,4.1.3: Gross Enrolment Rate(GER) in higher secondary education,Total,48.13
+2017-18,4.1.4: Net Enrolment Rate(NER) in primary and upper primary education,Primary,89.21
+2017-18,4.1.4: Net Enrolment Rate(NER) in primary and upper primary education,Upper Primary,71.14
+2017-18,"4.1.5: Adjusted Net Enrolment Rate(ANER) in primary, upper primary and secondary education",Primary,94.34
+2017-18,"4.1.5: Adjusted Net Enrolment Rate(ANER) in primary, upper primary and secondary education",Secondary,59.36
+2017-18,"4.1.5: Adjusted Net Enrolment Rate(ANER) in primary, upper primary and secondary education",Upper Primary,80.3
+2017-18,4.1.6: Proportion of students enrolled in Grade 1 who reaches last grade or primary/upper primary/secondary levels,Total- Primary (I-V),86.58
+2017-18,4.1.6: Proportion of students enrolled in Grade 1 who reaches last grade or primary/upper primary/secondary levels,Total- Secondary (IX-X),59.38
+2017-18,4.1.6: Proportion of students enrolled in Grade 1 who reaches last grade or primary/upper primary/secondary levels,Total- Upper Primary (VI-VIII) ,71.41
+2017-18,4.3.3: Gross enrolment ratio for tertiary education,Tertiary Education,25.8
+2017-18,4.5.1: Gender Parity Indices (GPI) for primary/secondary/higher secondary/tertiary education,Higher Secondary,1.02
+2017-18,4.5.1: Gender Parity Indices (GPI) for primary/secondary/higher secondary/tertiary education,Primary,1.02
+2017-18,4.5.1: Gender Parity Indices (GPI) for primary/secondary/higher secondary/tertiary education,Secondary,1.1
+2017-18,4.5.1: Gender Parity Indices (GPI) for primary/secondary/higher secondary/tertiary education,Tertiary Education,0.97
+2017-18,4.5.2: Enrolment ratio of children with disabilities,Elementary,1.08
+2017-18,4.5.2: Enrolment ratio of children with disabilities,Higher Secondary,0.31
+2017-18,4.5.2: Enrolment ratio of children with disabilities,Primary,1.05
+2017-18,4.5.2: Enrolment ratio of children with disabilities,Secondary,0.62
+2017-18,4.5.2: Enrolment ratio of children with disabilities,Upper Primary,1.14
+2017-18,4.a.1: Proportion of schools with access to: (a) electricity; (b) computers for pedagogical purposes; (c) adapted infrastructure and materials for students with disabilities/ disabled friendly ramp and toilets; (d) basic drinking water; (e) single-sex basic sanitation facilities; and (f) basic hand washing facilities (as per the WASH indicator definitions),Adapted infrastructure and materials for students with disabilities/disabled friendly  Toilets,8.02
+2017-18,4.a.1: Proportion of schools with access to: (a) electricity; (b) computers for pedagogical purposes; (c) adapted infrastructure and materials for students with disabilities/ disabled friendly ramp and toilets; (d) basic drinking water; (e) single-sex basic sanitation facilities; and (f) basic hand washing facilities (as per the WASH indicator definitions),Adapted infrastructure and materials for students with disabilities/disabled friendly Ramp ,62.07
+2017-18,4.a.1: Proportion of schools with access to: (a) electricity; (b) computers for pedagogical purposes; (c) adapted infrastructure and materials for students with disabilities/ disabled friendly ramp and toilets; (d) basic drinking water; (e) single-sex basic sanitation facilities; and (f) basic hand washing facilities (as per the WASH indicator definitions),Basic drinking water,90.01
+2017-18,4.a.1: Proportion of schools with access to: (a) electricity; (b) computers for pedagogical purposes; (c) adapted infrastructure and materials for students with disabilities/ disabled friendly ramp and toilets; (d) basic drinking water; (e) single-sex basic sanitation facilities; and (f) basic hand washing facilities (as per the WASH indicator definitions),Basic hand washing facilities (as per the WASH indicator definitions),58.09
+2017-18,4.a.1: Proportion of schools with access to: (a) electricity; (b) computers for pedagogical purposes; (c) adapted infrastructure and materials for students with disabilities/ disabled friendly ramp and toilets; (d) basic drinking water; (e) single-sex basic sanitation facilities; and (f) basic hand washing facilities (as per the WASH indicator definitions),Computers for pedagogical purposes,31.25
+2017-18,4.a.1: Proportion of schools with access to: (a) electricity; (b) computers for pedagogical purposes; (c) adapted infrastructure and materials for students with disabilities/ disabled friendly ramp and toilets; (d) basic drinking water; (e) single-sex basic sanitation facilities; and (f) basic hand washing facilities (as per the WASH indicator definitions),Electricity,63.06
+2017-18,4.a.1: Proportion of schools with access to: (a) electricity; (b) computers for pedagogical purposes; (c) adapted infrastructure and materials for students with disabilities/ disabled friendly ramp and toilets; (d) basic drinking water; (e) single-sex basic sanitation facilities; and (f) basic hand washing facilities (as per the WASH indicator definitions),Single-sex basic sanitation facilities (Boys),94.03
+2017-18,4.a.1: Proportion of schools with access to: (a) electricity; (b) computers for pedagogical purposes; (c) adapted infrastructure and materials for students with disabilities/ disabled friendly ramp and toilets; (d) basic drinking water; (e) single-sex basic sanitation facilities; and (f) basic hand washing facilities (as per the WASH indicator definitions),Single-sex basic sanitation facilities (Girls),96.12
+2017-18,"4.c.1: Proportion of trained teacher, by education level (primary, upper primary, elementary, secondary and higher secondary education), (in percentage)",Higher Secondary,87.24
+2017-18,"4.c.1: Proportion of trained teacher, by education level (primary, upper primary, elementary, secondary and higher secondary education), (in percentage)",Primary,68.31
+2017-18,"4.c.1: Proportion of trained teacher, by education level (primary, upper primary, elementary, secondary and higher secondary education), (in percentage)",Secondary,80.42
+2017-18,"4.c.1: Proportion of trained teacher, by education level (primary, upper primary, elementary, secondary and higher secondary education), (in percentage)",Upper Primary,65.72
+2017-18,"5.5.2: Proportion of women in managerial positions including women in Board of Director, in listed companies, (per 1,000 persons)",Total,184.0
+2017-18,"5.a.5: Exclusive women SHGs in Bank linked SHGs, (in percentage)",Total,91.77
+2017-18,5.c.1: Number of Central Ministries and States having Gender Budget Cells (GBCs),Central Ministries,57.0
+2017-18,5.c.1: Number of Central Ministries and States having Gender Budget Cells (GBCs),States/UT,23.0
+2017-18,6.1.1: Percentage of Population getting safe and adequate drinking water within premises through Pipe Water Supply (PWS),Rural,37.85
+2017-18,6.1.2: Percentage of population using an improved drinking water source (Rural),Rural,95.23
+2017-18,6.2.1: Proportion of households having access to toilet facility (Urban and Rural),Rural,80.51
+2017-18,6.2.2: Percentage of Districts achieving Open Defecation Free (ODF) target,Total,51.5
+2017-18,"6.2.3: Proportion of schools with separate toilet facility for girls,(in percentage)",Total,96.12
+2017-18,"6.4.2: Per capita storage of water, (in m3/person)",Total,196.93
+2017-18,7.1.2: Percentage of households using clean cooking fuel,Total,82.49
+2017-18,7.2.1: Renewable energy share in the total installed electricity generation,Total,17.7
+2017-18,"7.3.1: Energy intensity measured in terms of primary energy and GDP, (in mega joules per rupee)",Total,0.1814
+2017-18,8.1.1: Annual growth rate of GDP (adjusted to price changes) per capita,Total,5.6
+2017-18,"8.10.1 (a): Number of banking outlets per 1,00,000 population, (b) Automated Teller Machines (ATMs) per 1,00,000 population",ATMs,16.9
+2017-18,"8.10.1 (a): Number of banking outlets per 1,00,000 population, (b) Automated Teller Machines (ATMs) per 1,00,000 population",Banking Outlets,60.9
+2017-18,"8.10.2: Number of accounts (include deposit and credit accounts) of scheduled commercial banks per 1,000 population",Total,1605.0
+2017-18,"8.2.2: Total number of patents issued (granted), (similar to Indicator 8.3.2 and 9.5.3) )",Total,13045.0
+2017-18,8.2.3: Annual growth in manufacturing sector,Manufacturing,7.5
+2017-18,8.2.4: Annual growth in agriculture sector,"Agriculture, forestry and fishing",6.6
+2017-18,8.3.1: Percentage of workers in informal sector among total workers engaged in non - agriculture sector,Total Person,68.2
+2017-18,"8.3.2: Total number of patents issued (granted), (similar to Indicator 8.2.2 and 9.5.3) )",Total,13045.0
+2017-18,8.3.3: Outstanding Credit to MSME,Total,1324239.34
+2017-18,8.3.4: Number of MSME units registered under the online Udyog Aadhaar registration,Total,1517617.0
+2017-18,8.4.1: Proportion of waste recycled vs. waste generated,Total,0.51
+2017-18,"8.4.2: Per capita fossil fuel consumption, (in Kg.)",Total,149.7
+2017-18,"8.5.1: Average hourly earnings of employees, by sex, age, occupation",Total Person,50.0
+2017-18,8.5.2: Unemployment rate,Total Person,6.1
+2017-18,8.8.3: Percentage of households receiving social protection benefits under Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA),Total,39.88
+2017-18,8.9.1: Direct contribution of Tourism to total GDP and in growth rate (in percentage),Growth Rate,10.72
+2017-18,8.9.1: Direct contribution of Tourism to total GDP and in growth rate (in percentage),Total share in GDP (in %),2.61
+2017-18,"9.1.2: Passenger and freight volumes, by mode of transport",Airline Domestic - Cargo,0.7
+2017-18,"9.1.2: Passenger and freight volumes, by mode of transport",Airline Domestic - Passengers,123.32
+2017-18,"9.1.2: Passenger and freight volumes, by mode of transport",Airline International - Cargo,0.37
+2017-18,"9.1.2: Passenger and freight volumes, by mode of transport",Airline International - Passengers,23.8
+2017-18,"9.1.2: Passenger and freight volumes, by mode of transport",Railways Freight,693281.0
+2017-18,"9.1.2: Passenger and freight volumes, by mode of transport",Railways Passengers,8286.0
+2017-18,9.1.3: Gross Capital Formation by industry of use,Constant Prices,4289515.0
+2017-18,9.1.3: Gross Capital Formation by industry of use,Current Prices,5053181.0
+2017-18,9.2.1: Manufacturing Value Added (MVA) as a proportion of Gross Domestic Product (GDP) and per capita,At constant price,16.81
+2017-18,9.2.1: Manufacturing Value Added (MVA) as a proportion of Gross Domestic Product (GDP) and per capita,At current price,15.02
+2017-18,9.2.1: Manufacturing Value Added (MVA) as a proportion of Gross Domestic Product (GDP) and per capita,Per capita,1681.45
+2017-18,9.2.2: Manufacturing employment as a proportion of total employment,Total Person,12.13
+2017-18,9.2.3: Percentage Share of GVA in Manufacturing to Total GVA,GVA,16.6
+2017-18,"9.3.1: Share of household sector in total industry value added, (in percentage)",Total,44.07
+2017-18,"9.3.2: Percentage of credit flow MSME (as a percentage of Total Adjusted Net Bank Credit), (in percentage)",Total,16.84
+2017-18,9.4.1: Total CO2 emissions of power sector per unit of GDP(in Tonne/Rupees Crore),Total,53.94
+2017-18,"9.4.2: Energy use intensity of manufacturing value added, (Tonne of Oil Equivalent /000� rupees)",Total,0.0088
+2017-18,9.5.1: Research and development expenditure as a proportion of GDP,Total,3.29
+2017-18,9.5.2: Researchers (in full time equivalent) per million population,Total,255.0
+2017-18,"9.5.3: Total number of patents issued (granted), (similar to Indicator 8.2.2 and 8.3.2) )",Total,13045.0
+2017-18,"9.b.1: Share of IPP in total Gross Fixed Capital Formation, (in percentage)",Total,11.69
+2017-18,"9.b.2: Share of GVA of Information and Computer related activities in total GVA, (in percentage)",Constant Prices,4.76
+2017-18,"9.b.2: Share of GVA of Information and Computer related activities in total GVA, (in percentage)",Current Prices,4.26
+2017-18,9.c.1: Number of Internet Subscription as percentage of total population,Total,38.02
+2017-18,"9.c.2: No. of Broadband Subscribers per 10,000 persons",Total,3176.0
+2017-19,14.2.1: Percentage change in area under mangroves (similar to Indicator 14.5.2),Total,1.1
+2017-19,14.5.2: Percentage change in area under mangroves (similar to Indicator 14.2.1),Total,1.1
+2017-19,15.2.1: Percentage change in Forest cover,Total,0.56
+2017-19,15.4.1: Percentage change in forest cover in hill districts,Total,0.19
+2017-19,2.4.2: Percentage of farmers issued Soil Health Card,Total,94.21
+2018,"1.5.1: Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population (similar to 11.5.1 and 13.1.1)",Total,10738.97
+2018,"1.5.3: Whether the country has adopted and implemented national disaster risk reduction strategies in line with the Sen-dai Framework for Disaster Risk Reduction 2015-2030, (similar to Indicator 11.b.1 and 13.1.2",Total,0.93
+2018,1.5.4: Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with na-tional disaster risk reduction strategies (similar to 11.b.2 and 13.1.3),Total,0.932
+2018,"10.2.2: Proportion of seats held by women in national Parliament, State legislation and Local Self Government (similar to Indicator 5.5.1 and 16.7.1)",Rajya Sabha,11.48
+2018,10.7.1: Recruitment cost borne by employee as a proportion of monthly income earned in country of destination,Total,2.14
+2018,11.2.2: People killed/injured in road accidents (similar to 3.6.1 ),Death Rate,11.54
+2018,11.2.2: People killed/injured in road accidents (similar to 3.6.1 ),Injury Rate,33.74
+2018,11.3.1: Proportion of Cities with Master Plan (similar to 11.a.1),Total,34.93
+2018,"11.5.1: Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population (similar to 1.5.1 and 13.1.1)",Total,10738.97
+2018,11.6.1: Percentage of Waste processed,Total,28.57
+2018,11.6.4: Percentage of wards with 100% door to door waste collection,Total,74.0
+2018,11.a.1: Proportion of Cities with Master Plan (similar to 11.3.1),Total,34.93
+2018,"11.b.1: Whether the country has adopted and implemented national disaster risk reduction strategies in line with the Sen-dai Framework for Disaster Risk Reduction 2015-2030, (similar to Indicator 1.5.3  and 13.1.2)",Total,0.93
+2018,11.b.2: Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (similar to  1.5.4 and 13.1.3),Total,0.932
+2018,12.3.1: Per capita food availability,Food Grains,180.1
+2018,12.a.1: Installed renewable energy generating capacity in the country (similar to 7.b.1 ),Total,87.6
+2018,"13.1.1: Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population (similar to 11.5.1 and 1.5.1 )",Total,10738.97
+2018,"13.1.2: Whether the country has adopted and implemented national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015-2030, (similar to Indicator 1.5.3  and 11.b.1)",Total,0.93
+2018,13.1.3: Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (similar to 11.b.2 and 1.5.4),Total,0.932
+2018,15.1.2: Protected area as percentage of total geographical area,Total,5.17
+2018,15.1.3: Area of Ramsar sites as a percentage to the total wetland area,Total,4.15
+2018,"15.7.1: Number of cases registered under the Wildlife Protection Act, 1972 (similar to 15.c.1)",Total,207.0
+2018,"15.c.1: Number of cases registered under the Wildlife Protection Act, 1972 (similar to 15.7.1)",Total,207.0
+2018,"16.1.1: Number of victims of intentional homicide per 1,00,000 population.",Total,2.28
+2018,"16.1.2: Per 1,00,000 Population subjected to physical, psychological or sexual violence in the previous 12 months",Total,96.89
+2018,"16.2.1: Proportion of Crime Committed against Children during the year, (rate per 1,00,000 children)",Total,33.74
+2018,"16.2.2: Number of victims rescued from human trafficking per 1,00,000 population, by sex, age and form of exploitation",Total,0.41
+2018,16.2.3: Number of Missing Children (similar to Indicator 8.7.2 ),Total,67134.0
+2018,16.3.1: Number of courts per lakh population,Courts,1.79
+2018,16.3.2: Unsentenced detainees as a proportion of overall prison population,Undertrials,69.4
+2018,16.3.3: Number of Judges (all levels) per lakh population,Judges,1.37
+2018,16.4.1: Number of cases under the Arms Act,Arms Cases,66305.0
+2018,16.4.2: Value of Property Stolen and Recovered and Percentage Recovery,Percentage Recovery of Stolen Property,35.1
+2018,16.4.2: Value of Property Stolen and Recovered and Percentage Recovery,Properties Recovered,1827.7
+2018,16.4.2: Value of Property Stolen and Recovered and Percentage Recovery,Properties Stolen,5211.9
+2018,"16.5.1: Cases reported under Prevention of Corruption Act and related section of IPC per 1,00,000 population",Total,0.31
+2018,"16.7.1: Proportion of seats held by women in national Parliament, State legislation and Local Self Government (similar to Indicator 5.5.1 and 10.2.2)",Rajya Sabha,11.48
+2018,16.9.1: Percentage of births registered,Total,89.3
+2018,17.11.1: Share of India�s exports in Global exports,Commercial Services Exports,3.43
+2018,17.11.1: Share of India�s exports in Global exports,Merchandise Exports,1.67
+2018,17.19.2: Proportion of States/UTs that have achieved 100 per cent birth registration and 80 per cent death registration,Birth,36.1
+2018,17.19.2: Proportion of States/UTs that have achieved 100 per cent birth registration and 80 per cent death registration,Death,61.1
+2018,2.5.1: Number of (a) plant and (b) animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities,Animal,19421.0
+2018,2.5.1: Number of (a) plant and (b) animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities,Plant,454941.0
+2018,3.2.1: Under-five Mortality Rate,Total Person,36.0
+2018,3.2.2: Neonatal Mortality Rate,Total,23.0
+2018,"3.3.2: Tuberculosis incidence per 1,00,000 population",Total,199.0
+2018,"3.3.3: Malaria incidence per 1,000 population",Total,0.32
+2018,3.3.5: Dengue: Case Fatality Ratio (CFR),Total,0.17
+2018,"3.3.7: Percentage of blocks reporting < 1 Kala Azar case per 10,000 population out of the total endemic blocks",Total,91.63
+2018,3.3.8: Percentage of districts reporting < 1% Microfilaria rate (MF) out of Targeted Endemic districts,Total,37.11
+2018,"3.4.2. Suicide mortality rate (per 1,00,000 population)",Total,10.2
+2018,3.6.1: People killed/injured in road accidents (similar to 11.2.2),Death Rate,11.54
+2018,3.6.1: People killed/injured in road accidents (similar to 11.2.2),Injury Rate,33.74
+2018,"3.7.2: Adolescent birth rate (aged 15�19 years) per 1,000 women in that age group",Total,12.2
+2018,"3.8.8: Total physicians, nurses and midwives per 10,000 population (similar to Indicator 3.c.1)",Total,31.27
+2018,3.9.3: Mortality rate attributed to unintentional poisoning,Total,1.64
+2018,"3.c.1: Total physicians, nurses and midwives per 10,000 population (similar to Indicator 3.8.8)",Total,31.27
+2018,3.d.1: International Health Regulations (IHR) capacity and health emergency preparedness,C1 Legislation and Financing,80.0
+2018,3.d.1: International Health Regulations (IHR) capacity and health emergency preparedness,C10 Risk Communication,80.0
+2018,3.d.1: International Health Regulations (IHR) capacity and health emergency preparedness,C11 Points of Entry,80.0
+2018,3.d.1: International Health Regulations (IHR) capacity and health emergency preparedness,C12 Chemical Events,80.0
+2018,3.d.1: International Health Regulations (IHR) capacity and health emergency preparedness,C13 Radiation Emergencies,100.0
+2018,3.d.1: International Health Regulations (IHR) capacity and health emergency preparedness,C2 IHR Coordination and National IHR Focal Point Functions,90.0
+2018,3.d.1: International Health Regulations (IHR) capacity and health emergency preparedness,C3 Zoonotic Events and the Human�animal Interface,60.0
+2018,3.d.1: International Health Regulations (IHR) capacity and health emergency preparedness,C4 Food Safety,60.0
+2018,3.d.1: International Health Regulations (IHR) capacity and health emergency preparedness,C5 Laboratory,47.0
+2018,3.d.1: International Health Regulations (IHR) capacity and health emergency preparedness,C6 Surveillance,100.0
+2018,3.d.1: International Health Regulations (IHR) capacity and health emergency preparedness,C7 Human Resources,100.0
+2018,3.d.1: International Health Regulations (IHR) capacity and health emergency preparedness,C8 National Health Emergency Framework,67.0
+2018,3.d.1: International Health Regulations (IHR) capacity and health emergency preparedness,C9 Health Service Provision,33.0
+2018,"5.1.1: Whether or not legal framework are in place to promote, enforce and monitor equality and nondiscrimination on the basis of sex.",Employment and economic benefits,87.5
+2018,"5.1.1: Whether or not legal framework are in place to promote, enforce and monitor equality and nondiscrimination on the basis of sex.",Marriage and family,100.0
+2018,"5.1.1: Whether or not legal framework are in place to promote, enforce and monitor equality and nondiscrimination on the basis of sex.",Overarching legal frameworks and public life,76.9
+2018,"5.1.1: Whether or not legal framework are in place to promote, enforce and monitor equality and nondiscrimination on the basis of sex.",Violence against women,92.3
+2018,5.1.2: Per lakh women that have been subjected to dowry offences during the year,Total,3.19
+2018,"5.1.4: Rate of Crimes Against Women Per 1,00,000 Female Population",Female,58.78
+2018,5.2.1: Proportion of crime against women to total crime reported in the country during the calendar year,Total,7.45
+2018,5.2.2: Per lakh women who have experienced sexual crimes during the calendar year,Total,27.7
+2018,5.2.3: Per lakh women who have experienced cruelty/physical violence by husband or his relatives during the year,Total,16.28
+2018,5.2.4: Proportion of sexual crime against girl children to total crime against children during the calendar year,Total,49.94
+2018,5.2.5: Proportion of trafficking of girl children to total children trafficked during the calendar year,Total,38.46
+2018,"5.3.2: Proportion of cases reported under the Prohibition of Child Marriage Act (early marriage of children below 18 years of age) to total crime against children, (in percentage)",Total,0.35
+2018,"5.5.1: Proportion of seats held by women in national Parliament, State legislation and Local Self Government (similar to Indicator 10.2.2 and 16.7.1)",Rajya Sabha,11.48
+2018,6.3.2: Proportion of water bodies with good ambient water quality,Total,88.0
+2018,7.b.1: Installed renewable energy generating capacity in the country(in watts per capita) (similar to 12.a.1),Total,87.6
+2018,8.3.5: Number of start-ups recognized under Start-up India,Total,8932.0
+2018,"8.7.1: Human trafficking cases per 10,00,000 population.",Total,1.72
+2018,8.7.2: Number of Missing Children (similar to Indicator 16.2.3),Total,67134.0
+2018,8.8.1: Number of accidents in factories,Total,5476.0
+2018,8.9.2: Percentage change in number of visits by tourists (domestic and foreign) over previous years,Total,11.8
+2018-19,1.3.2: Number of beneficiaries under Integrated Child Development Scheme - ICDS,Total Beneficiaries (Children 6 month-6 years plus P&LM),87560671.0
+2018-19,1.3.3: Persons provided employment as a percentage of persons who demanded employment under Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA),Total,85.2
+2018-19,1.3.4: Number of Self Help Groups (SHGs) provided bank credit linkage,Total SHGs,26.98
+2018-19,1.3.5: Proportion of the population (out of total eligible population) receiving social protection benefits under Pradhan Mantri Matritva Vandana Yojana (PMMVY),Total,92.17
+2018-19,1.3.6: Number of senior citizens provided institutional assistance through Senior Citizen Homes/Day Care Centers funded by the Government,Total,34920.0
+2018-19,1.3.7: Number of beneficiaries added under Employee�s Pension Scheme (EPS) during the year,Total,23423696.0
+2018-19,1.3.8: Coverage of New Pension Scheme (NPS),Total,12399659.0
+2018-19,1.4.2: Number of telephone subscriptions as percentage of total population,Total,90.1
+2018-19,"1.a.2: Proportion of total government spending on essential services (education, health and social protection)",Essential Services,30.23
+2018-19,1.b.1: Proportion of budget earmarked under gender budget,Total,4.99
+2018-19,10.4.1: Labour Share of GDP,Total,31.27
+2018-19,10.4.2: Percentage of budget allocated to North Eastern States,Total,2.03
+2018-19,10.4.3: Percentage of budget allocated for welfare of Scheduled Caste and Scheduled Caste,Total,3.94
+2018-19,"11.4.1: Total per capita expenditure on the preservation, protection and conservation of all cultural and natural heritage",Total,3.05
+2018-19,12.3.2: Post harvest storage and distribution losses of Central/States Pool stocks of wheat and rice,Storage Loss,-0.14
+2018-19,12.3.2: Post harvest storage and distribution losses of Central/States Pool stocks of wheat and rice,Transit Loss,0.25
+2018-19,"12.4.2: (a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment",Hazardous waste generated,189.47
+2018-19,"12.4.2: (a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment",Hazardous waste treated,0.56
+2018-19,12.c.1: Amount of fossil fuel subsidy per unit of GDP,Total,0.13
+2018-19,"14.1.2: Percentage use of nitrogenous fertilizers to total fertilizers (N, P & K)",Total,64.39
+2018-19,14.4.1: Maximum Sustainable Yield (MSY) in fishing,Total,5.311
+2018-19,14.b.1: Assistance to the traditional / artisanal fishers for procurement of FRP boats and other associated fishing implements,Boats,560.0
+2018-19,14.b.1: Assistance to the traditional / artisanal fishers for procurement of FRP boats and other associated fishing implements,Project cost,1930.0
+2018-19,15.4.2: Percentage change in per capita income of Himalayan States over previous year,Total,9.97
+2018-19,15.b.1: Percentage of government spending on environmental protection to total government expenditure,Total,0.09
+2018-19,16.10.1: Percentage of RTI queries responded (similar to Indicator 16.6.2),Total,80.98
+2018-19,16.6.1: Primary government expenditures as a proportion of original approved budget,Total,94.8
+2018-19,16.6.2: Percentage of RTI queries responded (similar to 16.10.1),Total,80.98
+2018-19,16.6.3: Number of Government services provided online to citizens.,Online Services,2925.0
+2018-19,16.9.2: Proportion of population covered under Aadhaar,Total,88.8
+2018-19,"17.1.1: Total government revenue as a proportion of GDP, by source",Total,8.22
+2018-19,17.1.2: Proportion of domestic budget funded by domestic taxes,Total,75.42
+2018-19,17.19.1: Budget allocated to different Ministries for strengthening statistics,Total,400188.0
+2018-19,17.4.1: Debt service as a proportion of exports of goods and services.,Total,7.5
+2018-19,"17.6.1: Fixed internet broadband subscriptions per 100 inhabitants, by speed.",Broadband ( >= 512 Kbps),1.387
+2018-19,"17.6.1: Fixed internet broadband subscriptions per 100 inhabitants, by speed.",Narrowband ( < 512 Kbps),0.245
+2018-19,2.1.2: Proportion of beneficiaries covered under National Food Security Act 2013,Total,97.62
+2018-19,2.3.1: Agriculture productivity of wheat and rice,Rice,2638.0
+2018-19,2.3.1: Agriculture productivity of wheat and rice,Wheat,3533.0
+2018-19,2.3.2: Gross Value Added in Agriculture per worker,Total,71727.0
+2018-19,2.4.3: Percentage of net area under organic farming,Total,1.5892
+2018-19,2.5.3: Conservation of fish genetic resource (in number),Total,1725.0
+2018-19,2.a.1: The agriculture orientation index for government expenditures,Total,0.461
+2018-19,2.a.2: Percentage share of expenditure in Intellectual Property Product (R&D) in agriculture to GVA in agriculture,Total,0.041
+2018-19,"3.3.1: Number of new HIV infections per 1,000 uninfected population",Total,0.06
+2018-19,3.5.2: Number of persons treated in de-addiction centers,Total,77479.0
+2018-19,3.8.3: Percentage of people living with HIV currently receiving ART among the detected number of adults and children living with HIV,Total,82.0
+2018-19,3.b.2: Budgetary allocation for Department of Health Research,Total,1800.0
+2018-19,3.c.2: Percentage of government spending (including current and capital expenditure) in health sector to GDP,Total,1.25
+2018-19,"4.1.2: Gross Intake Ratio to the last grade (primary, upper primary and secondary)",Grade 10,77.58
+2018-19,"4.1.2: Gross Intake Ratio to the last grade (primary, upper primary and secondary)",Grade 5,96.53
+2018-19,"4.1.2: Gross Intake Ratio to the last grade (primary, upper primary and secondary)",Grade 8,97.18
+2018-19,4.1.3: Gross Enrolment Rate(GER) in higher secondary education,Total,50.14
+2018-19,4.1.4: Net Enrolment Rate(NER) in primary and upper primary education,Primary,89.14
+2018-19,4.1.4: Net Enrolment Rate(NER) in primary and upper primary education,Upper Primary,68.99
+2018-19,"4.1.5: Adjusted Net Enrolment Rate(ANER) in primary, upper primary and secondary education",Primary,93.6
+2018-19,"4.1.5: Adjusted Net Enrolment Rate(ANER) in primary, upper primary and secondary education",Secondary,55.64
+2018-19,"4.1.5: Adjusted Net Enrolment Rate(ANER) in primary, upper primary and secondary education",Upper Primary,76.97
+2018-19,4.1.6: Proportion of students enrolled in Grade 1 who reaches last grade or primary/upper primary/secondary levels,Total- Primary (I-V),86.78
+2018-19,4.1.6: Proportion of students enrolled in Grade 1 who reaches last grade or primary/upper primary/secondary levels,Total- Secondary (IX-X),59.9
+2018-19,4.1.6: Proportion of students enrolled in Grade 1 who reaches last grade or primary/upper primary/secondary levels,Total- Upper Primary (VI-VIII) ,71.58
+2018-19,4.2.1: Gross early childhood education enrolment ratio,Total,51.3
+2018-19,4.2.2: Participation rate in organized learning one year before official primary entry,Total,41.34
+2018-19,4.3.3: Gross enrolment ratio for tertiary education,Tertiary Education,26.3
+2018-19,4.5.1: Gender Parity Indices (GPI) for primary/secondary/higher secondary/tertiary education,Higher Secondary,1.02
+2018-19,4.5.1: Gender Parity Indices (GPI) for primary/secondary/higher secondary/tertiary education,Tertiary Education,1.0
+2018-19,4.5.2: Enrolment ratio of children with disabilities,Elementary,0.97
+2018-19,4.5.2: Enrolment ratio of children with disabilities,Higher Secondary,0.31
+2018-19,4.5.2: Enrolment ratio of children with disabilities,Primary,0.95
+2018-19,4.5.2: Enrolment ratio of children with disabilities,Secondary,0.65
+2018-19,4.5.2: Enrolment ratio of children with disabilities,Upper Primary,1.01
+2018-19,4.a.1: Proportion of schools with access to: (a) electricity; (b) computers for pedagogical purposes; (c) adapted infrastructure and materials for students with disabilities/ disabled friendly ramp and toilets; (d) basic drinking water; (e) single-sex basic sanitation facilities; and (f) basic hand washing facilities (as per the WASH indicator definitions),Adapted infrastructure and materials for students with disabilities/disabled friendly  Toilets,17.54
+2018-19,4.a.1: Proportion of schools with access to: (a) electricity; (b) computers for pedagogical purposes; (c) adapted infrastructure and materials for students with disabilities/ disabled friendly ramp and toilets; (d) basic drinking water; (e) single-sex basic sanitation facilities; and (f) basic hand washing facilities (as per the WASH indicator definitions),Adapted infrastructure and materials for students with disabilities/disabled friendly Ramp ,63.71
+2018-19,4.a.1: Proportion of schools with access to: (a) electricity; (b) computers for pedagogical purposes; (c) adapted infrastructure and materials for students with disabilities/ disabled friendly ramp and toilets; (d) basic drinking water; (e) single-sex basic sanitation facilities; and (f) basic hand washing facilities (as per the WASH indicator definitions),Basic drinking water,95.68
+2018-19,4.a.1: Proportion of schools with access to: (a) electricity; (b) computers for pedagogical purposes; (c) adapted infrastructure and materials for students with disabilities/ disabled friendly ramp and toilets; (d) basic drinking water; (e) single-sex basic sanitation facilities; and (f) basic hand washing facilities (as per the WASH indicator definitions),Basic hand washing facilities (as per the WASH indicator definitions),88.18
+2018-19,4.a.1: Proportion of schools with access to: (a) electricity; (b) computers for pedagogical purposes; (c) adapted infrastructure and materials for students with disabilities/ disabled friendly ramp and toilets; (d) basic drinking water; (e) single-sex basic sanitation facilities; and (f) basic hand washing facilities (as per the WASH indicator definitions),Computers for pedagogical purposes,32.66
+2018-19,4.a.1: Proportion of schools with access to: (a) electricity; (b) computers for pedagogical purposes; (c) adapted infrastructure and materials for students with disabilities/ disabled friendly ramp and toilets; (d) basic drinking water; (e) single-sex basic sanitation facilities; and (f) basic hand washing facilities (as per the WASH indicator definitions),Electricity,73.86
+2018-19,4.a.1: Proportion of schools with access to: (a) electricity; (b) computers for pedagogical purposes; (c) adapted infrastructure and materials for students with disabilities/ disabled friendly ramp and toilets; (d) basic drinking water; (e) single-sex basic sanitation facilities; and (f) basic hand washing facilities (as per the WASH indicator definitions),Single-sex basic sanitation facilities (Boys),92.63
+2018-19,4.a.1: Proportion of schools with access to: (a) electricity; (b) computers for pedagogical purposes; (c) adapted infrastructure and materials for students with disabilities/ disabled friendly ramp and toilets; (d) basic drinking water; (e) single-sex basic sanitation facilities; and (f) basic hand washing facilities (as per the WASH indicator definitions),Single-sex basic sanitation facilities (Girls),94.38
+2018-19,"4.c.1: Proportion of trained teacher, by education level (primary, upper primary, elementary, secondary and higher secondary education), (in percentage)",Primary,71.68
+2018-19,"4.c.1: Proportion of trained teacher, by education level (primary, upper primary, elementary, secondary and higher secondary education), (in percentage)",Secondary,82.62
+2018-19,"4.c.1: Proportion of trained teacher, by education level (primary, upper primary, elementary, secondary and higher secondary education), (in percentage)",Upper Primary,72.27
+2018-19,"5.5.2: Proportion of women in managerial positions including women in Board of Director, in listed companies, (per 1,000 persons)",Total,190.0
+2018-19,"5.a.5: Exclusive women SHGs in Bank linked SHGs, (in percentage)",Total,87.66
+2018-19,5.c.1: Number of Central Ministries and States having Gender Budget Cells (GBCs),Central Ministries,57.0
+2018-19,5.c.1: Number of Central Ministries and States having Gender Budget Cells (GBCs),States/UT,23.0
+2018-19,6.1.1: Percentage of Population getting safe and adequate drinking water within premises through Pipe Water Supply (PWS),Rural,40.58
+2018-19,6.1.2: Percentage of population using an improved drinking water source (Rural),Rural,95.98
+2018-19,6.2.1: Proportion of households having access to toilet facility (Urban and Rural),Rural,99.03
+2018-19,6.2.2: Percentage of Districts achieving Open Defecation Free (ODF) target,Total,88.13
+2018-19,"6.2.3: Proportion of schools with separate toilet facility for girls,(in percentage)",Total,94.38
+2018-19,7.1.2: Percentage of households using clean cooking fuel,Total,97.95
+2018-19,"7.3.1: Energy intensity measured in terms of primary energy and GDP, (in mega joules per rupee)",Total,0.1719
+2018-19,8.1.1: Annual growth rate of GDP (adjusted to price changes) per capita,Total,5.5
+2018-19,"8.10.1 (a): Number of banking outlets per 1,00,000 population, (b) Automated Teller Machines (ATMs) per 1,00,000 population",ATMs,16.7
+2018-19,"8.10.1 (a): Number of banking outlets per 1,00,000 population, (b) Automated Teller Machines (ATMs) per 1,00,000 population",Banking Outlets,85.4
+2018-19,"8.10.2: Number of accounts (include deposit and credit accounts) of scheduled commercial banks per 1,000 population",Total,1660.0
+2018-19,8.2.1: Annual growth rate of real GDP per employed person,Total,3.35
+2018-19,"8.2.2: Total number of patents issued (granted), (similar to Indicator 8.3.2 and 9.5.3) )",Total,15283.0
+2018-19,8.2.3: Annual growth in manufacturing sector,Manufacturing,5.3
+2018-19,8.2.4: Annual growth in agriculture sector,"Agriculture, forestry and fishing",2.6
+2018-19,8.3.1: Percentage of workers in informal sector among total workers engaged in non - agriculture sector,Total Person,68.4
+2018-19,"8.3.2: Total number of patents issued (granted), (similar to Indicator 8.2.2 and 9.5.3) )",Total,15283.0
+2018-19,8.3.3: Outstanding Credit to MSME,Total,1510650.54
+2018-19,8.3.4: Number of MSME units registered under the online Udyog Aadhaar registration,Total,2123262.0
+2018-19,8.4.1: Proportion of waste recycled vs. waste generated,Total,0.56
+2018-19,"8.4.2: Per capita fossil fuel consumption, (in Kg.)",Total,157.3
+2018-19,"8.5.1: Average hourly earnings of employees, by sex, age, occupation",Total Person,53.0
+2018-19,8.5.2: Unemployment rate,Total Person,5.8
+2018-19,8.8.3: Percentage of households receiving social protection benefits under Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA),Total,39.46
+2018-19,8.9.1: Direct contribution of Tourism to total GDP and in growth rate (in percentage),Growth Rate,10.12
+2018-19,8.9.1: Direct contribution of Tourism to total GDP and in growth rate (in percentage),Total share in GDP (in %),2.6
+2018-19,"9.1.2: Passenger and freight volumes, by mode of transport",Airline Domestic - Cargo,0.76
+2018-19,"9.1.2: Passenger and freight volumes, by mode of transport",Airline Domestic - Passengers,140.33
+2018-19,"9.1.2: Passenger and freight volumes, by mode of transport",Airline International - Cargo,0.38
+2018-19,"9.1.2: Passenger and freight volumes, by mode of transport",Airline International - Passengers,25.9
+2018-19,"9.1.2: Passenger and freight volumes, by mode of transport",Railways Freight,738923.0
+2018-19,"9.1.2: Passenger and freight volumes, by mode of transport",Railways Passengers,8439.0
+2018-19,9.1.3: Gross Capital Formation by industry of use,Constant Prices,4748844.0
+2018-19,9.1.3: Gross Capital Formation by industry of use,Current Prices,5830943.0
+2018-19,9.2.1: Manufacturing Value Added (MVA) as a proportion of Gross Domestic Product (GDP) and per capita,At constant price,16.61
+2018-19,9.2.1: Manufacturing Value Added (MVA) as a proportion of Gross Domestic Product (GDP) and per capita,At current price,14.85
+2018-19,9.2.1: Manufacturing Value Added (MVA) as a proportion of Gross Domestic Product (GDP) and per capita,Per capita,1752.88
+2018-19,9.2.2: Manufacturing employment as a proportion of total employment,Total Person,12.07
+2018-19,9.2.3: Percentage Share of GVA in Manufacturing to Total GVA,GVA,16.3
+2018-19,"9.3.1: Share of household sector in total industry value added, (in percentage)",Total,43.95
+2018-19,"9.3.2: Percentage of credit flow MSME (as a percentage of Total Adjusted Net Bank Credit), (in percentage)",Total,17.32
+2018-19,9.4.1: Total CO2 emissions of power sector per unit of GDP(in Tonne/Rupees Crore),Total,50.65
+2018-19,"9.4.2: Energy use intensity of manufacturing value added, (Tonne of Oil Equivalent /000� rupees)",Total,0.0086
+2018-19,9.5.1: Research and development expenditure as a proportion of GDP,Total,3.37
+2018-19,"9.5.3: Total number of patents issued (granted), (similar to Indicator 8.2.2 and 8.3.2) )",Total,15283.0
+2018-19,"9.b.1: Share of IPP in total Gross Fixed Capital Formation, (in percentage)",Total,11.53
+2018-19,"9.b.2: Share of GVA of Information and Computer related activities in total GVA, (in percentage)",Constant Prices,5.02
+2018-19,"9.b.2: Share of GVA of Information and Computer related activities in total GVA, (in percentage)",Current Prices,4.49
+2018-19,9.c.1: Number of Internet Subscription as percentage of total population,Total,48.48
+2018-19,"9.c.2: No. of Broadband Subscribers per 10,000 persons",Total,4289.0
+2018-19 ,17.3.1: Foreign Direct Investment as proportion of Gross National Income.,Total,1.62
+2018-19 ,17.3.2: Volume of remittances as a proportion of total GDP,Total,2.66
+2018-19 ,7.2.1: Renewable energy share in the total installed electricity generation,Total,19.2
+2019,"1.5.3: Whether the country has adopted and implemented national disaster risk reduction strategies in line with the Sen-dai Framework for Disaster Risk Reduction 2015-2030, (similar to Indicator 11.b.1 and 13.1.2",Total,1.0
+2019,1.5.4: Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with na-tional disaster risk reduction strategies (similar to 11.b.2 and 13.1.3),Total,0.931
+2019,"10.2.2: Proportion of seats held by women in national Parliament, State legislation and Local Self Government (similar to Indicator 5.5.1 and 16.7.1)",Lok Sabha,14.36
+2019,"10.2.2: Proportion of seats held by women in national Parliament, State legislation and Local Self Government (similar to Indicator 5.5.1 and 16.7.1)",PRI,44.37
+2019,10.2.3: Proportion of SC/ST persons in Elected bodies (similar to 16.7.2),SCs,15.5
+2019,10.2.3: Proportion of SC/ST persons in Elected bodies (similar to 16.7.2),STs,8.67
+2019,10.7.1: Recruitment cost borne by employee as a proportion of monthly income earned in country of destination,Total,2.14
+2019,11.2.2: People killed/injured in road accidents (similar to 3.6.1 ),Death Rate,11.42
+2019,11.2.2: People killed/injured in road accidents (similar to 3.6.1 ),Injury Rate,33.38
+2019,11.3.1: Proportion of Cities with Master Plan (similar to 11.a.1),Total,34.93
+2019,11.6.1: Percentage of Waste processed,Total,53.0
+2019,11.6.4: Percentage of wards with 100% door to door waste collection,Total,74.0
+2019,11.a.1: Proportion of Cities with Master Plan (similar to 11.3.1),Total,34.93
+2019,"11.b.1: Whether the country has adopted and implemented national disaster risk reduction strategies in line with the Sen-dai Framework for Disaster Risk Reduction 2015-2030, (similar to Indicator 1.5.3  and 13.1.2)",Total,1.0
+2019,11.b.2: Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (similar to  1.5.4 and 13.1.3),Total,0.931
+2019,12.3.1: Per capita food availability,Food Grains,179.6
+2019,12.5.2: Number of Urban Local Bodies using waste segregation techniques,Total,63.0
+2019,12.a.1: Installed renewable energy generating capacity in the country (similar to 7.b.1 ),Total,93.3
+2019,"13.1.2: Whether the country has adopted and implemented national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015-2030, (similar to Indicator 1.5.3  and 11.b.1)",Total,1.0
+2019,13.1.3: Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (similar to 11.b.2 and 1.5.4),Total,0.931
+2019,15.1.1: Forest cover as a percentage of total geographical area,Total,21.67
+2019,15.1.2: Protected area as percentage of total geographical area,Total,5.23
+2019,15.1.3: Area of Ramsar sites as a percentage to the total wetland area,Total,7.0
+2019,15.2.3: Tree cover as percentage of total geographical area,Total,2.89
+2019,"15.7.1: Number of cases registered under the Wildlife Protection Act, 1972 (similar to 15.c.1)",Total,296.0
+2019,"15.c.1: Number of cases registered under the Wildlife Protection Act, 1972 (similar to 15.7.1)",Total,296.0
+2019,"16.1.1: Number of victims of intentional homicide per 1,00,000 population.",Total,2.24
+2019,"16.1.2: Per 1,00,000 Population subjected to physical, psychological or sexual violence in the previous 12 months",Total,95.84
+2019,"16.2.1: Proportion of Crime Committed against Children during the year, (rate per 1,00,000 children)",Total,35.15
+2019,"16.2.2: Number of victims rescued from human trafficking per 1,00,000 population, by sex, age and form of exploitation",Total,0.49
+2019,16.2.3: Number of Missing Children (similar to Indicator 8.7.2 ),Total,73138.0
+2019,16.3.1: Number of courts per lakh population,Courts,1.82
+2019,16.3.2: Unsentenced detainees as a proportion of overall prison population,Undertrials,69.1
+2019,16.3.3: Number of Judges (all levels) per lakh population,Judges,1.38
+2019,16.4.1: Number of cases under the Arms Act,Arms Cases,73122.0
+2019,16.4.2: Value of Property Stolen and Recovered and Percentage Recovery,Percentage Recovery of Stolen Property,30.8
+2019,16.4.2: Value of Property Stolen and Recovered and Percentage Recovery,Properties Recovered,1451.6
+2019,16.4.2: Value of Property Stolen and Recovered and Percentage Recovery,Properties Stolen,4719.2
+2019,"16.5.1: Cases reported under Prevention of Corruption Act and related section of IPC per 1,00,000 population",Total,0.32
+2019,"16.7.1: Proportion of seats held by women in national Parliament, State legislation and Local Self Government (similar to Indicator 5.5.1 and 10.2.2)",Lok Sabha,14.36
+2019,"16.7.1: Proportion of seats held by women in national Parliament, State legislation and Local Self Government (similar to Indicator 5.5.1 and 10.2.2)",PRI,44.37
+2019,"16.7.2:  Proportion of SC/ST persons in the elected bodies (Lok Sabha) (similar to 
+10.2.3)",SCs,15.5
+2019,"16.7.2:  Proportion of SC/ST persons in the elected bodies (Lok Sabha) (similar to 
+10.2.3)",STs,8.67
+2019,17.11.1: Share of India�s exports in Global exports,Commercial Services Exports,3.52
+2019,17.11.1: Share of India�s exports in Global exports,Merchandise Exports,1.71
+2019,2.5.1: Number of (a) plant and (b) animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities,Animal,20100.0
+2019,2.5.1: Number of (a) plant and (b) animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities,Plant,459703.0
+2019,"3.3.2: Tuberculosis incidence per 1,00,000 population",Total,193.0
+2019,"3.3.3: Malaria incidence per 1,000 population",Total,0.25
+2019,3.3.5: Dengue: Case Fatality Ratio (CFR),Total,0.11
+2019,"3.3.7: Percentage of blocks reporting < 1 Kala Azar case per 10,000 population out of the total endemic blocks",Total,94.15
+2019,3.3.8: Percentage of districts reporting < 1% Microfilaria rate (MF) out of Targeted Endemic districts,Total,38.13
+2019,"3.4.2. Suicide mortality rate (per 1,00,000 population)",Total,10.4
+2019,3.6.1: People killed/injured in road accidents (similar to 11.2.2),Death Rate,11.42
+2019,3.6.1: People killed/injured in road accidents (similar to 11.2.2),Injury Rate,33.38
+2019,3.8.7: Percentage of TB cases successfully treated (cured plus treatment completed) among TB cases notified to the national health authorities during a specified period,Total,81.0
+2019,3.9.3: Mortality rate attributed to unintentional poisoning,Total,1.58
+2019,3.d.1: International Health Regulations (IHR) capacity and health emergency preparedness,C1 Legislation and Financing,80.0
+2019,3.d.1: International Health Regulations (IHR) capacity and health emergency preparedness,C10 Risk Communication,80.0
+2019,3.d.1: International Health Regulations (IHR) capacity and health emergency preparedness,C11 Points of Entry,80.0
+2019,3.d.1: International Health Regulations (IHR) capacity and health emergency preparedness,C12 Chemical Events,80.0
+2019,3.d.1: International Health Regulations (IHR) capacity and health emergency preparedness,C13 Radiation Emergencies,100.0
+2019,3.d.1: International Health Regulations (IHR) capacity and health emergency preparedness,C2 IHR Coordination and National IHR Focal Point Functions,90.0
+2019,3.d.1: International Health Regulations (IHR) capacity and health emergency preparedness,C3 Zoonotic Events and the Human�animal Interface,60.0
+2019,3.d.1: International Health Regulations (IHR) capacity and health emergency preparedness,C4 Food Safety,60.0
+2019,3.d.1: International Health Regulations (IHR) capacity and health emergency preparedness,C5 Laboratory,67.0
+2019,3.d.1: International Health Regulations (IHR) capacity and health emergency preparedness,C6 Surveillance,100.0
+2019,3.d.1: International Health Regulations (IHR) capacity and health emergency preparedness,C7 Human Resources,100.0
+2019,3.d.1: International Health Regulations (IHR) capacity and health emergency preparedness,C8 National Health Emergency Framework,80.0
+2019,3.d.1: International Health Regulations (IHR) capacity and health emergency preparedness,C9 Health Service Provision,33.0
+2019,"5.1.1: Whether or not legal framework are in place to promote, enforce and monitor equality and nondiscrimination on the basis of sex.",Employment and economic benefits,100.0
+2019,"5.1.1: Whether or not legal framework are in place to promote, enforce and monitor equality and nondiscrimination on the basis of sex.",Marriage and family,100.0
+2019,"5.1.1: Whether or not legal framework are in place to promote, enforce and monitor equality and nondiscrimination on the basis of sex.",Overarching legal frameworks and public life,76.9
+2019,"5.1.1: Whether or not legal framework are in place to promote, enforce and monitor equality and nondiscrimination on the basis of sex.",Violence against women,92.3
+2019,5.1.2: Per lakh women that have been subjected to dowry offences during the year,Total,3.2
+2019,"5.1.4: Rate of Crimes Against Women Per 1,00,000 Female Population",Female,62.39
+2019,5.2.1: Proportion of crime against women to total crime reported in the country during the calendar year,Total,7.87
+2019,5.2.2: Per lakh women who have experienced sexual crimes during the calendar year,Total,28.1
+2019,5.2.3: Per lakh women who have experienced cruelty/physical violence by husband or his relatives during the year,Total,19.54
+2019,5.2.4: Proportion of sexual crime against girl children to total crime against children during the calendar year,Total,46.68
+2019,5.2.5: Proportion of trafficking of girl children to total children trafficked during the calendar year,Total,40.22
+2019,"5.3.2: Proportion of cases reported under the Prohibition of Child Marriage Act (early marriage of children below 18 years of age) to total crime against children, (in percentage)",Total,0.35
+2019,5.4.1: Proportion of time spent on unpaid domestic and care work,Rural Female,19.72
+2019,5.4.1: Proportion of time spent on unpaid domestic and care work,Rural Male,2.64
+2019,5.4.1: Proportion of time spent on unpaid domestic and care work,Toal Female,19.44
+2019,5.4.1: Proportion of time spent on unpaid domestic and care work,Total Male,2.5
+2019,5.4.1: Proportion of time spent on unpaid domestic and care work,Urban Female,18.61
+2019,5.4.1: Proportion of time spent on unpaid domestic and care work,Urban Male,2.15
+2019,"5.5.1: Proportion of seats held by women in national Parliament, State legislation and Local Self Government (similar to Indicator 10.2.2 and 16.7.1)",Lok Sabha,14.36
+2019,"5.5.1: Proportion of seats held by women in national Parliament, State legislation and Local Self Government (similar to Indicator 10.2.2 and 16.7.1)",PRI,44.37
+2019,5.5.3: Number of women candidates out of total candidates contesting elections(in percentage),Total,9.01
+2019,"5.b.1: Percentage of women employed in IT and ITeS industry, (in percentage)",Total,35.0
+2019,6.3.2: Proportion of water bodies with good ambient water quality,Total,90.0
+2019,7.b.1: Installed renewable energy generating capacity in the country(in watts per capita) (similar to 12.a.1),Total,93.3
+2019,8.3.5: Number of start-ups recognized under Start-up India,Total,11627.0
+2019,"8.7.1: Human trafficking cases per 10,00,000 population.",Total,1.69
+2019,8.7.2: Number of Missing Children (similar to Indicator 16.2.3),Total,73138.0
+2019,8.9.2: Percentage change in number of visits by tourists (domestic and foreign) over previous years,Total,25.0
+2019-20,1.3.2: Number of beneficiaries under Integrated Child Development Scheme - ICDS,Total Beneficiaries (Children 6 month-6 years plus P&LM),85505148.0
+2019-20,1.3.3: Persons provided employment as a percentage of persons who demanded employment under Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA),Total,84.4
+2019-20,1.3.4: Number of Self Help Groups (SHGs) provided bank credit linkage,Total SHGs,31.46
+2019-20,1.3.5: Proportion of the population (out of total eligible population) receiving social protection benefits under Pradhan Mantri Matritva Vandana Yojana (PMMVY),Total,91.38
+2019-20,1.3.6: Number of senior citizens provided institutional assistance through Senior Citizen Homes/Day Care Centers funded by the Government,Total,41655.0
+2019-20,1.3.8: Coverage of New Pension Scheme (NPS),Total,13412639.0
+2019-20,1.4.2: Number of telephone subscriptions as percentage of total population,Total,88.74
+2019-20,"1.a.2: Proportion of total government spending on essential services (education, health and social protection)",Essential Services,30.31
+2019-20,1.b.1: Proportion of budget earmarked under gender budget,Total,4.91
+2019-20,10.4.1: Labour Share of GDP,Total,31.76
+2019-20,10.4.2: Percentage of budget allocated to North Eastern States,Total,1.99
+2019-20,10.4.3: Percentage of budget allocated for welfare of Scheduled Caste and Scheduled Caste,Total,4.18
+2019-20,"11.4.1: Total per capita expenditure on the preservation, protection and conservation of all cultural and natural heritage",Total,3.03
+2019-20,12.3.2: Post harvest storage and distribution losses of Central/States Pool stocks of wheat and rice,Storage Loss,-0.14
+2019-20,12.3.2: Post harvest storage and distribution losses of Central/States Pool stocks of wheat and rice,Transit Loss,0.23
+2019-20,12.c.1: Amount of fossil fuel subsidy per unit of GDP,Total,0.19
+2019-20,"14.1.2: Percentage use of nitrogenous fertilizers to total fertilizers (N, P & K)",Total,65.04
+2019-20,14.3.1: Average marine acidity (pH) measured at agreed site of representative sampling stations,Greater Than 8 pH,12.0
+2019-20,14.3.1: Average marine acidity (pH) measured at agreed site of representative sampling stations,Less Than 8 pH,4.0
+2019-20,14.4.1: Maximum Sustainable Yield (MSY) in fishing,Total,5.311
+2019-20,"14.a.1: Allocation of budget resources (Budget Estimates) for Ocean Services, Modeling, Applications, Resources and Technology (OSMART) scheme",Total,445.0
+2019-20,15.b.1: Percentage of government spending on environmental protection to total government expenditure,Total,0.08
+2019-20,16.6.1: Primary government expenditures as a proportion of original approved budget,Total,96.41
+2019-20,16.6.3: Number of Government services provided online to citizens.,Online Services,3868.0
+2019-20,16.9.2: Proportion of population covered under Aadhaar,Total,88.6
+2019-20,17.16.1: Number of States having a State Monitoring Framework that supports the achievement of the sustainable development goals,Total,12.0
+2019-20,17.19.1: Budget allocated to different Ministries for strengthening statistics,Total,536367.0
+2019-20,17.3.1: Foreign Direct Investment as proportion of Gross National Income.,Total,1.97
+2019-20,17.3.2: Volume of remittances as a proportion of total GDP,Total,2.74
+2019-20,17.4.1: Debt service as a proportion of exports of goods and services.,Total,7.8
+2019-20,"17.6.1: Fixed internet broadband subscriptions per 100 inhabitants, by speed.",Broadband ( >= 512 Kbps),1.429
+2019-20,"17.6.1: Fixed internet broadband subscriptions per 100 inhabitants, by speed.",Narrowband ( < 512 Kbps),0.241
+2019-20,2.1.2: Proportion of beneficiaries covered under National Food Security Act 2013,Total,99.51
+2019-20,2.3.1: Agriculture productivity of wheat and rice,Rice,2722.0
+2019-20,2.3.1: Agriculture productivity of wheat and rice,Wheat,3440.0
+2019-20,2.3.2: Gross Value Added in Agriculture per worker,Total,74822.0
+2019-20,2.4.3: Percentage of net area under organic farming,Total,2.022
+2019-20,2.5.3: Conservation of fish genetic resource (in number),Total,1986.0
+2019-20,2.a.1: The agriculture orientation index for government expenditures,Total,0.506
+2019-20,2.a.2: Percentage share of expenditure in Intellectual Property Product (R&D) in agriculture to GVA in agriculture,Total,0.034
+2019-20,"3.3.1: Number of new HIV infections per 1,000 uninfected population",Total,0.05
+2019-20,"3.3.6: The proportion of grade-2 cases amongst new cases of Leprosy, (in Rate per million population)",Total,1.96
+2019-20,3.5.2: Number of persons treated in de-addiction centers,Total,93364.0
+2019-20,3.8.3: Percentage of people living with HIV currently receiving ART among the detected number of adults and children living with HIV,Total,84.0
+2019-20,3.b.2: Budgetary allocation for Department of Health Research,Total,1900.0
+2019-20,3.c.2: Percentage of government spending (including current and capital expenditure) in health sector to GDP,Total,1.34
+2019-20,4.2.1: Gross early childhood education enrolment ratio,Total,49.8
+2019-20,4.2.2: Participation rate in organized learning one year before official primary entry,Total,51.03
+2019-20,4.3.3: Gross enrolment ratio for tertiary education,Tertiary Education,27.08
+2019-20,"5.a.5: Exclusive women SHGs in Bank linked SHGs, (in percentage)",Total,91.67
+2019-20,5.c.1: Number of Central Ministries and States having Gender Budget Cells (GBCs),Central Ministries,57.0
+2019-20,5.c.1: Number of Central Ministries and States having Gender Budget Cells (GBCs),States/UT,23.0
+2019-20,6.1.1: Percentage of Population getting safe and adequate drinking water within premises through Pipe Water Supply (PWS),Rural,50.66
+2019-20,6.1.2: Percentage of population using an improved drinking water source (Rural),Rural,96.96
+2019-20,6.2.1: Proportion of households having access to toilet facility (Urban and Rural),Rural,100.0
+2019-20,6.2.2: Percentage of Districts achieving Open Defecation Free (ODF) target,Total,100.0
+2019-20,"6.4.2: Per capita storage of water, (in m3/person)",Total,253.39
+2019-20,7.1.1: Percentage of households electrified,Total,99.77
+2019-20,7.1.2: Percentage of households using clean cooking fuel,Total,102.11
+2019-20,8.1.1: Annual growth rate of GDP (adjusted to price changes) per capita,Total,3.0
+2019-20,"8.10.1 (a): Number of banking outlets per 1,00,000 population, (b) Automated Teller Machines (ATMs) per 1,00,000 population",ATMs,17.5
+2019-20,"8.10.1 (a): Number of banking outlets per 1,00,000 population, (b) Automated Teller Machines (ATMs) per 1,00,000 population",Banking Outlets,98.8
+2019-20,"8.10.2: Number of accounts (include deposit and credit accounts) of scheduled commercial banks per 1,000 population",Total,1744.0
+2019-20,"8.2.2: Total number of patents issued (granted), (similar to Indicator 8.3.2 and 9.5.3) )",Total,24936.0
+2019-20,8.2.3: Annual growth in manufacturing sector,Manufacturing,-2.4
+2019-20,8.2.4: Annual growth in agriculture sector,"Agriculture, forestry and fishing",4.3
+2019-20,"8.3.2: Total number of patents issued (granted), (similar to Indicator 8.2.2 and 9.5.3) )",Total,24936.0
+2019-20,8.3.3: Outstanding Credit to MSME,Total,1613582.17
+2019-20,8.3.4: Number of MSME units registered under the online Udyog Aadhaar registration,Total,2564468.0
+2019-20,"8.4.2: Per capita fossil fuel consumption, (in Kg.)",Total,157.5
+2019-20,8.8.3: Percentage of households receiving social protection benefits under Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA),Total,39.05
+2019-20,8.9.1: Direct contribution of Tourism to total GDP and in growth rate (in percentage),Growth Rate,10.92
+2019-20,8.9.1: Direct contribution of Tourism to total GDP and in growth rate (in percentage),Total share in GDP (in %),2.68
+2019-20,"9.1.2: Passenger and freight volumes, by mode of transport",Airline Domestic - Cargo,0.73
+2019-20,"9.1.2: Passenger and freight volumes, by mode of transport",Airline Domestic - Passengers,141.2
+2019-20,"9.1.2: Passenger and freight volumes, by mode of transport",Airline International - Cargo,0.22
+2019-20,"9.1.2: Passenger and freight volumes, by mode of transport",Airline International - Passengers,22.72
+2019-20,"9.1.2: Passenger and freight volumes, by mode of transport",Railways Freight,708034.0
+2019-20,"9.1.2: Passenger and freight volumes, by mode of transport",Railways Passengers,8086.0
+2019-20,9.1.3: Gross Capital Formation by industry of use,Constant Prices,4888802.0
+2019-20,9.1.3: Gross Capital Formation by industry of use,Current Prices,6045754.0
+2019-20,9.2.1: Manufacturing Value Added (MVA) as a proportion of Gross Domestic Product (GDP) and per capita,At constant price,15.58
+2019-20,9.2.1: Manufacturing Value Added (MVA) as a proportion of Gross Domestic Product (GDP) and per capita,At current price,13.33
+2019-20,9.2.1: Manufacturing Value Added (MVA) as a proportion of Gross Domestic Product (GDP) and per capita,Per capita,1692.34
+2019-20,9.2.3: Percentage Share of GVA in Manufacturing to Total GVA,GVA,14.7
+2019-20,"9.3.1: Share of household sector in total industry value added, (in percentage)",Total,44.3
+2019-20,"9.3.2: Percentage of credit flow MSME (as a percentage of Total Adjusted Net Bank Credit), (in percentage)",Total,16.39
+2019-20,9.5.1: Research and development expenditure as a proportion of GDP,Total,3.75
+2019-20,"9.5.3: Total number of patents issued (granted), (similar to Indicator 8.2.2 and 8.3.2) )",Total,24936.0
+2019-20,"9.b.1: Share of IPP in total Gross Fixed Capital Formation, (in percentage)",Total,13.03
+2019-20,"9.b.2: Share of GVA of Information and Computer related activities in total GVA, (in percentage)",Constant Prices,5.35
+2019-20,"9.b.2: Share of GVA of Information and Computer related activities in total GVA, (in percentage)",Current Prices,4.71
+2019-20,9.c.1: Number of Internet Subscription as percentage of total population,Total,54.29
+2019-20 ,"17.1.1: Total government revenue as a proportion of GDP, by source",Total,8.28
+2020,1.5.4: Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with na-tional disaster risk reduction strategies (similar to 11.b.2 and 13.1.3),Total,0.919
+2020,"10.2.2: Proportion of seats held by women in national Parliament, State legislation and Local Self Government (similar to Indicator 5.5.1 and 16.7.1)",Rajya Sabha,10.33
+2020,10.7.1: Recruitment cost borne by employee as a proportion of monthly income earned in country of destination,Total,2.14
+2020,11.3.1: Proportion of Cities with Master Plan (similar to 11.a.1),Total,35.84
+2020,11.6.1: Percentage of Waste processed,Total,65.0
+2020,11.6.4: Percentage of wards with 100% door to door waste collection,Total,96.0
+2020,11.a.1: Proportion of Cities with Master Plan (similar to 11.3.1),Total,35.84
+2020,11.b.2: Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (similar to  1.5.4 and 13.1.3),Total,0.919
+2020,12.5.1: Number of waste recycling plants installed,Total,829.0
+2020,12.5.2: Number of Urban Local Bodies using waste segregation techniques,Total,76.0
+2020,12.8.1: Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment (similar to 4.7.1 and 13.3.1),Curricula,0.92
+2020,12.8.1: Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment (similar to 4.7.1 and 13.3.1),Policy,1.0
+2020,12.8.1: Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment (similar to 4.7.1 and 13.3.1),Student Assessment,1.0
+2020,12.8.1: Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment (similar to 4.7.1 and 13.3.1),Teacher Education,0.95
+2020,13.1.3: Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (similar to 11.b.2 and 1.5.4),Total,0.919
+2020,"13.2.1: Pre 2020 action: Achievement of pre-2020 goals as per country priority (percentage reduction in emission intensity of GDP, over 2005 level)",Total,21.0
+2020,13.3.1: Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment (similar to 12.8.1 and 4.7.1),Curricula,0.92
+2020,13.3.1: Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment (similar to 12.8.1 and 4.7.1),Policy,1.0
+2020,13.3.1: Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment (similar to 12.8.1 and 4.7.1),Student Assessment,1.0
+2020,13.3.1: Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment (similar to 12.8.1 and 4.7.1),Teacher Education,0.95
+2020,"14.2.2: Percentage of coastal marine protected areas in relation to Territorial Seas, 2020 (Similar to 14.5.1)",Total,5.47
+2020,"14.5.1: Percentage of coastal marine protected areas in relation to Territorial Seas, 2020 (Similar to 14.2.2)",Total,5.47
+2020,15.1.2: Protected area as percentage of total geographical area,Total,5.23
+2020,15.1.3: Area of Ramsar sites as a percentage to the total wetland area,Total,7.09
+2020,"15.7.1: Number of cases registered under the Wildlife Protection Act, 1972 (similar to 15.c.1)",Total,406.0
+2020,"15.c.1: Number of cases registered under the Wildlife Protection Act, 1972 (similar to 15.7.1)",Total,406.0
+2020,16.3.1: Number of courts per lakh population,Courts,1.86
+2020,16.3.3: Number of Judges (all levels) per lakh population,Judges,1.47
+2020,"16.7.1: Proportion of seats held by women in national Parliament, State legislation and Local Self Government (similar to Indicator 5.5.1 and 10.2.2)",Rajya Sabha,10.33
+2020,2.5.1: Number of (a) plant and (b) animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities,Animal,19305.0
+2020,2.5.1: Number of (a) plant and (b) animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities,Plant,464597.0
+2020,"3.3.3: Malaria incidence per 1,000 population",Total,0.13
+2020,3.3.5: Dengue: Case Fatality Ratio (CFR),Total,0.06
+2020,"3.3.7: Percentage of blocks reporting < 1 Kala Azar case per 10,000 population out of the total endemic blocks",Total,97.47
+2020,3.3.8: Percentage of districts reporting < 1% Microfilaria rate (MF) out of Targeted Endemic districts,Total,36.03
+2020,"3.8.8: Total physicians, nurses and midwives per 10,000 population (similar to Indicator 3.c.1)",Total,31.3
+2020,"3.c.1: Total physicians, nurses and midwives per 10,000 population (similar to Indicator 3.8.8)",Total,31.3
+2020,4.7.1: Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment (similar to 12.8.1 and 13.3.1),Curricular,0.92
+2020,4.7.1: Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment (similar to 12.8.1 and 13.3.1),Policy,1.0
+2020,4.7.1: Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment (similar to 12.8.1 and 13.3.1),Student Assessment,1.0
+2020,4.7.1: Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment (similar to 12.8.1 and 13.3.1),Teacher Education,0.95
+2020,"5.1.1: Whether or not legal framework are in place to promote, enforce and monitor equality and nondiscrimination on the basis of sex.",Employment and economic benefits,100.0
+2020,"5.1.1: Whether or not legal framework are in place to promote, enforce and monitor equality and nondiscrimination on the basis of sex.",Marriage and family,100.0
+2020,"5.1.1: Whether or not legal framework are in place to promote, enforce and monitor equality and nondiscrimination on the basis of sex.",Overarching legal frameworks and public life,76.9
+2020,"5.1.1: Whether or not legal framework are in place to promote, enforce and monitor equality and nondiscrimination on the basis of sex.",Violence against women,92.3
+2020,"5.5.1: Proportion of seats held by women in national Parliament, State legislation and Local Self Government (similar to Indicator 10.2.2 and 16.7.1)",Rajya Sabha,10.33
+2020,6.3.1: Percentage of Sewage Treated before discharge into Surface Water Bodies,Total,27.96
+2020,8.3.5: Number of start-ups recognized under Start-up India,Total,14742.0
+2020,8.9.2: Percentage change in number of visits by tourists (domestic and foreign) over previous years,Total,-73.8
+2020-21,1.3.2: Number of beneficiaries under Integrated Child Development Scheme - ICDS,Total Beneficiaries (Children 6 month-6 years plus P&LM),81654722.0
+2020-21,1.3.6: Number of senior citizens provided institutional assistance through Senior Citizen Homes/Day Care Centers funded by the Government,Total,50860.0
+2020-21,1.3.8: Coverage of New Pension Scheme (NPS),Total,14390543.0
+2020-21,1.b.1: Proportion of budget earmarked under gender budget,Total,4.72
+2020-21,10.4.2: Percentage of budget allocated to North Eastern States,Total,1.48
+2020-21,10.4.3: Percentage of budget allocated for welfare of Scheduled Caste and Scheduled Caste,Total,3.92
+2020-21,12.3.2: Post harvest storage and distribution losses of Central/States Pool stocks of wheat and rice,Storage Loss,-0.12
+2020-21,12.3.2: Post harvest storage and distribution losses of Central/States Pool stocks of wheat and rice,Transit Loss,0.31
+2020-21,12.c.1: Amount of fossil fuel subsidy per unit of GDP,Total,0.2
+2020-21,14.1.1: Coastal Water Quality Index (CWQI),Good,0.0
+2020-21,14.1.1: Coastal Water Quality Index (CWQI),Moderate,9.0
+2020-21,14.3.1: Average marine acidity (pH) measured at agreed site of representative sampling stations,Greater Than 8 pH,159.0
+2020-21,14.3.1: Average marine acidity (pH) measured at agreed site of representative sampling stations,Less Than 8 pH,41.0
+2020-21,"14.a.1: Allocation of budget resources (Budget Estimates) for Ocean Services, Modeling, Applications, Resources and Technology (OSMART) scheme",Total,567.0
+2020-21,16.6.3: Number of Government services provided online to citizens.,Online Services,3870.0
+2020-21,"17.1.1: Total government revenue as a proportion of GDP, by source",Total,7.94
+2020-21,17.16.1: Number of States having a State Monitoring Framework that supports the achievement of the sustainable development goals,Total,23.0
+2020-21,"17.6.1: Fixed internet broadband subscriptions per 100 inhabitants, by speed.",Broadband ( >= 512 Kbps),1.556
+2020-21,"17.6.1: Fixed internet broadband subscriptions per 100 inhabitants, by speed.",Narrowband ( < 512 Kbps),0.239
+2020-21,2.1.2: Proportion of beneficiaries covered under National Food Security Act 2013,Total,97.59
+2020-21,2.3.1: Agriculture productivity of wheat and rice,Rice,2749.0
+2020-21,2.3.1: Agriculture productivity of wheat and rice,Wheat,3424.0
+2020-21,2.3.2: Gross Value Added in Agriculture per worker,Total,77540.0
+2020-21,2.4.3: Percentage of net area under organic farming,Total,2.3843
+2020-21,2.5.3: Conservation of fish genetic resource (in number),Total,1609.0
+2020-21,2.c.1: Percentage of Agriculture Mandis enrolled in e-market,Total,15.1
+2020-21,3.5.2: Number of persons treated in de-addiction centers,Total,179877.0
+2020-21,3.b.2: Budgetary allocation for Department of Health Research,Total,2100.0
+2020-21,5.c.1: Number of Central Ministries and States having Gender Budget Cells (GBCs),Central Ministries,57.0
+2020-21,5.c.1: Number of Central Ministries and States having Gender Budget Cells (GBCs),States/UT,23.0
+2020-21,7.1.2: Percentage of households using clean cooking fuel,Total,100.87
+2020-21,8.1.1: Annual growth rate of GDP (adjusted to price changes) per capita,Total,-8.2
+2020-21,"8.2.2: Total number of patents issued (granted), (similar to Indicator 8.3.2 and 9.5.3) )",Total,28391.0
+2020-21,8.2.3: Annual growth in manufacturing sector,Manufacturing,-7.2
+2020-21,8.2.4: Annual growth in agriculture sector,"Agriculture, forestry and fishing",3.6
+2020-21,"8.3.2: Total number of patents issued (granted), (similar to Indicator 8.2.2 and 9.5.3) )",Total,28391.0
+2020-21,"8.4.2: Per capita fossil fuel consumption, (in Kg.)",Total,142.7
+2020-21,"9.1.2: Passenger and freight volumes, by mode of transport",Airline Domestic - Cargo,0.47
+2020-21,"9.1.2: Passenger and freight volumes, by mode of transport",Airline Domestic - Passengers,53.33
+2020-21,"9.1.2: Passenger and freight volumes, by mode of transport",Airline International - Cargo,0.04
+2020-21,"9.1.2: Passenger and freight volumes, by mode of transport",Airline International - Passengers,1.64
+2020-21,9.2.1: Manufacturing Value Added (MVA) as a proportion of Gross Domestic Product (GDP) and per capita,At constant price,15.51
+2020-21,9.2.1: Manufacturing Value Added (MVA) as a proportion of Gross Domestic Product (GDP) and per capita,At current price,12.96
+2020-21,9.2.1: Manufacturing Value Added (MVA) as a proportion of Gross Domestic Product (GDP) and per capita,Per capita,1534.71
+2020-21,9.2.3: Percentage Share of GVA in Manufacturing to Total GVA,GVA,14.4
+2020-21,"9.5.3: Total number of patents issued (granted), (similar to Indicator 8.2.2 and 8.3.2) )",Total,28391.0
+2021,10.6.1: Whether the country is a member and has voting rights in international organizations (similar to 16.8.1),Membership (Out of 11 international organizations),9.0
+2021,10.6.1: Whether the country is a member and has voting rights in international organizations (similar to 16.8.1),Voting Rights (Out of 11 international organizations),6.0
+2021,16.8.1: whether the country is a member and has voting rights in international organizations (similar to 10.6.1 ),Membership (Out of 11 international organizations),9.0
+2021,16.8.1: whether the country is a member and has voting rights in international organizations (similar to 10.6.1 ),Voting Rights (Out of 11 international organizations),6.0
+2021,6.4.3: Per capita availability of water,Total,1486.0
+2021-22,1.b.1: Proportion of budget earmarked under gender budget,Total,4.4
+2021-22,10.4.2: Percentage of budget allocated to North Eastern States,Total,1.99
+2021-22,10.4.3: Percentage of budget allocated for welfare of Scheduled Caste and Scheduled Caste,Total,6.04
+2021-22,17.16.1: Number of States having a State Monitoring Framework that supports the achievement of the sustainable development goals,Total,25.0
+2021-22,5.c.1: Number of Central Ministries and States having Gender Budget Cells (GBCs),Central Ministries,57.0
+2021-22,5.c.1: Number of Central Ministries and States having Gender Budget Cells (GBCs),States/UT,23.0
+"Apr-Jun, 2018","5.a.3: Wages of casual labourers (gender-wise) other than public works, (Rs. per day)",Female,182.0
+"Apr-Jun, 2018","5.a.3: Wages of casual labourers (gender-wise) other than public works, (Rs. per day)",Male,291.0
+"Apr-Jun, 2018","5.a.4: Average agricultural wage earnings from casual labour work other than public works, (Rs. per day)",Female,172.0
+"Apr-Jun, 2018","5.a.4: Average agricultural wage earnings from casual labour work other than public works, (Rs. per day)",Male,247.0
+"Apr-Jun, 2019","5.a.3: Wages of casual labourers (gender-wise) other than public works, (Rs. per day)",Female,204.0
+"Apr-Jun, 2019","5.a.3: Wages of casual labourers (gender-wise) other than public works, (Rs. per day)",Male,310.0
+"Apr-Jun, 2019","5.a.4: Average agricultural wage earnings from casual labour work other than public works, (Rs. per day)",Female,187.0
+"Apr-Jun, 2019","5.a.4: Average agricultural wage earnings from casual labour work other than public works, (Rs. per day)",Male,261.0
+"Jan-Mar, 2018","5.a.3: Wages of casual labourers (gender-wise) other than public works, (Rs. per day)",Female,177.0
+"Jan-Mar, 2018","5.a.3: Wages of casual labourers (gender-wise) other than public works, (Rs. per day)",Male,280.0
+"Jan-Mar, 2018","5.a.4: Average agricultural wage earnings from casual labour work other than public works, (Rs. per day)",Female,168.0
+"Jan-Mar, 2018","5.a.4: Average agricultural wage earnings from casual labour work other than public works, (Rs. per day)",Male,240.0
+"Jan-Mar, 2019","5.a.3: Wages of casual labourers (gender-wise) other than public works, (Rs. per day)",Female,193.0
+"Jan-Mar, 2019","5.a.3: Wages of casual labourers (gender-wise) other than public works, (Rs. per day)",Male,299.0
+"Jan-Mar, 2019","5.a.4: Average agricultural wage earnings from casual labour work other than public works, (Rs. per day)",Female,185.0
+"Jan-Mar, 2019","5.a.4: Average agricultural wage earnings from casual labour work other than public works, (Rs. per day)",Male,250.0
+"July-Sep, 2017","5.a.3: Wages of casual labourers (gender-wise) other than public works, (Rs. per day)",Female,169.0
+"July-Sep, 2017","5.a.3: Wages of casual labourers (gender-wise) other than public works, (Rs. per day)",Male,265.0
+"July-Sep, 2017","5.a.4: Average agricultural wage earnings from casual labour work other than public works, (Rs. per day)",Female,159.0
+"July-Sep, 2017","5.a.4: Average agricultural wage earnings from casual labour work other than public works, (Rs. per day)",Male,222.0
+"July-Sep, 2018","5.a.3: Wages of casual labourers (gender-wise) other than public works, (Rs. per day)",Female,175.0
+"July-Sep, 2018","5.a.3: Wages of casual labourers (gender-wise) other than public works, (Rs. per day)",Male,288.0
+"July-Sep, 2018","5.a.4: Average agricultural wage earnings from casual labour work other than public works, (Rs. per day)",Female,164.0
+"July-Sep, 2018","5.a.4: Average agricultural wage earnings from casual labour work other than public works, (Rs. per day)",Male,236.0
+"Oct-Dec, 2017","5.a.3: Wages of casual labourers (gender-wise) other than public works, (Rs. per day)",Female,173.0
+"Oct-Dec, 2017","5.a.3: Wages of casual labourers (gender-wise) other than public works, (Rs. per day)",Male,274.0
+"Oct-Dec, 2017","5.a.4: Average agricultural wage earnings from casual labour work other than public works, (Rs. per day)",Female,169.0
+"Oct-Dec, 2017","5.a.4: Average agricultural wage earnings from casual labour work other than public works, (Rs. per day)",Male,233.0
+"Oct-Dec, 2018","5.a.3: Wages of casual labourers (gender-wise) other than public works, (Rs. per day)",Female,190.0
+"Oct-Dec, 2018","5.a.3: Wages of casual labourers (gender-wise) other than public works, (Rs. per day)",Male,298.0
+"Oct-Dec, 2018","5.a.4: Average agricultural wage earnings from casual labour work other than public works, (Rs. per day)",Female,181.0
+"Oct-Dec, 2018","5.a.4: Average agricultural wage earnings from casual labour work other than public works, (Rs. per day)",Male,254.0
