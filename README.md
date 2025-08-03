@@ -49,9 +49,8 @@ The final model was successfully deployed using **IBM Watson Machine Learning_
 
 ## 📷 Screenshots
 
-- IBM Cloud Deployment Dashboard  
-- Scoring Payload Interface  
-- Model Summary and Output  
+- ![Model Deployment Screenshot](Screenshots/Testing_Prediction.png)
+- ![Model Deployment Screenshot](Screenshots/Prediction_Result.png)
 
 (Screenshots are located in the `screenshots/` folder.)
 
