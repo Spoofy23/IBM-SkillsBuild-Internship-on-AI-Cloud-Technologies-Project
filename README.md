@@ -49,8 +49,19 @@ The final model was successfully deployed using **IBM Watson Machine Learning_
 
 ## 📷 Screenshots
 
-- ![Model Deployment Screenshot](Screenshots/Testing_Prediction.png)
-- ![Model Deployment Screenshot](Screenshots/Prediction_Result.png)
+Pipeline Comparisons
+
+- ![Model Deployment Screenshot](Screenshots/Pipeline_Comparison_1.png)
+- ![Model Deployment Screenshot](Screenshots/Pipeline_Comparison_2.png)
+- ![Model Deployment Screenshot](Screenshots/Pipeline_Leaderboard.png)
+  
+Testing
+
+- ![Model Deployment Screenshot](Screenshots/Testing_Predictions.png)
+- ![Model Deployment Screenshot](Screenshots/Prediction_Results.png)
+
+Values Successfully Predicted ✅ 
+
 
 (Screenshots are located in the `screenshots/` folder.)
 
