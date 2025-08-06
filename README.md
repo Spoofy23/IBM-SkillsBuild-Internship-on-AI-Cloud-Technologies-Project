@@ -65,6 +65,10 @@ Values Successfully Predicted ✅
 
 (Screenshots are located in the `screenshots/` folder.)
 
+## 📊 Presentation
+
+You can view the detailed project presentation by downloading the [PowerPoint file here](Tracking_Maternal_Health_Progress_IBM_Internship.pptx).
+
 ---
 
 ## 👤 Author
