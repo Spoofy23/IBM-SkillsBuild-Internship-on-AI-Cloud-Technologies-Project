@@ -69,7 +69,26 @@ Values Successfully Predicted ✅
 
 You can view the detailed project presentation by downloading the [PowerPoint file here](Tracking_Maternal_Health_Progress_IBM_Internship.pptx).
 
----
+
+## 🔑 IBM Cloud API Configuration
+
+To use this notebook with your own IBM Cloud deployment:
+
+1. Create an IBM Cloud account.
+2. Deploy a machine learning model using Watson Studio.
+3. Retrieve the following values:
+   - **API Key**
+   - **Deployment ID**
+   - **Endpoint URL**
+
+4. In the notebook `Tracking_Maternal_Health_Progress.ipynb`, locate the section:
+
+```python
+API_KEY = "your-api-key-here"
+DEPLOYMENT_ID = "your-deployment-id-here"
+ENDPOINT_URL = "https://your-region.ml.cloud.ibm.com/ml/v4/deployments/your-id/predictions?version=2021-05-01"
+
+```
 
 ## 👤 Author
 
