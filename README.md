@@ -24,7 +24,7 @@ This work was completed during my virtual internship under **Edunet Foundation**
 │
 ├── datafile.csv                  # Raw dataset
 ├── pivoted_file.csv             # Cleaned and pivoted dataset
-├── MaternalHealthPrediction.ipynb   # Main Jupyter Notebook
+├── Tracking Maternal Health Progress Notebook.ipynb   # IBM Cloud Notebook File
 ├── screenshots/                 # Screenshots of deployment and results
 └── README.md                    # Project documentation
 ```
